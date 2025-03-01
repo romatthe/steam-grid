@@ -4003,5 +4003,15 @@
     "appid": 482400,
     "name": "System Shock",
     "sort_as": "System Shock 1 RE 2"
+  },
+  {
+    "appid": 1265220,
+    "name": "Cauldrons of War: Barbarossa",
+    "sort_as": "Cauldrons of War: Barbarossa"
+  },
+  {
+    "appid": 1497230,
+    "name": "Cauldrons of War: Stalingrad",
+    "sort_as": "Cauldrons of War: Stalingrad"
   }
 ]
