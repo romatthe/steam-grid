@@ -975,14 +975,19 @@
     "sort_as": "Far Cry 3: Blood Dragon"
   },
   {
-    "appid": 346830,
-    "name": "FINAL FANTASY IV: THE AFTER YEARS",
-    "sort_as": "FINAL FANTASY 04X"
+    "appid": 1173770,
+    "name": "Final Fantasy",
+    "sort_as": "Final Fantasy 01"
   },
   {
-    "appid": 312750,
-    "name": "Final Fantasy IV (3D Remake)",
-    "sort_as": "Final Fantasy 04 3D"
+    "appid": 1173780,
+    "name": "Final Fantasy II",
+    "sort_as": "Final Fantasy 02"
+  },
+  {
+    "appid": 1173790,
+    "name": "Final Fantasy III",
+    "sort_as": "Final Fantasy 03"
   },
   {
     "appid": 239120,
@@ -990,64 +995,79 @@
     "sort_as": "Final Fantasy 03 3D"
   },
   {
-    "appid": 377840,
-    "name": "FINAL FANTASY IX",
-    "sort_as": "FINAL FANTASY 09"
+    "appid": 312750,
+    "name": "Final Fantasy IV (3D Remake)",
+    "sort_as": "Final Fantasy 04 3D"
   },
   {
-    "appid": 340170,
-    "name": "FINAL FANTASY TYPE-0 HD",
-    "sort_as": "FINAL FANTASY X 1"
+    "appid": 346830,
+    "name": "Final Fantasy IV: The After Years",
+    "sort_as": "Final Fantasy 04 3D X"
   },
   {
     "appid": 39140,
-    "name": "FINAL FANTASY VII",
-    "sort_as": "FINAL FANTASY 07"
+    "name": "Final Fantasy VII",
+    "sort_as": "Final Fantasy 07"
   },
   {
     "appid": 1462040,
-    "name": "FINAL FANTASY VII REMAKE INTERGRADE",
-    "sort_as": "FINAL FANTASY 07 RE"
+    "name": "Final Fantasy VII Remake",
+    "sort_as": "Final Fantasy 07 RE"
   },
   {
     "appid": 39150,
-    "name": "FINAL FANTASY VIII",
-    "sort_as": "FINAL FANTASY 08"
+    "name": "Final Fantasy VIII",
+    "sort_as": "Final Fantasy 08"
+  },
+  {
+    "appid": 377840,
+    "name": "Final Fantasy IX",
+    "sort_as": "Final Fantasy 09"
   },
   {
     "appid": 359870,
-    "name": "FINAL FANTASY X/X-2 HD Remaster",
-    "sort_as": "FINAL FANTASY 10 RE"
+    "name": "Final Fantasy X/X-2 HD Remaster",
+    "sort_as": "Final Fantasy 10 RE"
   },
   {
     "appid": 595520,
-    "name": "FINAL FANTASY XII: THE ZODIAC AGE",
-    "sort_as": "FINAL FANTASY 12 RE"
+    "name": "Final Fantasy XII: The Zodiac Age",
+    "sort_as": "Final Fantasy 12 RE"
   },
   {
     "appid": 292120,
-    "name": "FINAL FANTASY XIII",
-    "sort_as": "FINAL FANTASY 13 1"
+    "name": "Final Fantasy XIII",
+    "sort_as": "Final Fantasy 13 1"
   },
   {
     "appid": 292140,
-    "name": "FINAL FANTASY XIII-2",
-    "sort_as": "FINAL FANTASY 13 2"
-  },
-  {
-    "appid": 39210,
-    "name": "FINAL FANTASY XIV Online",
-    "sort_as": "FINAL FANTASY 14"
-  },
-  {
-    "appid": 637650,
-    "name": "FINAL FANTASY XV",
-    "sort_as": "FINAL FANTASY 15"
+    "name": "Final Fantasy XIII-2",
+    "sort_as": "Final Fantasy 13 2"
   },
   {
     "appid": 345350,
-    "name": "LIGHTNING RETURNS: FINAL FANTASY XIII",
-    "sort_as": "FINAL FANTASY 13 3"
+    "name": "Lightning Returns: Final Fantasy XIII",
+    "sort_as": "Final Fantasy 13 3"
+  },
+  {
+    "appid": 39210,
+    "name": "Final Fantasy XIV Online",
+    "sort_as": "Final Fantasy 14"
+  },
+  {
+    "appid": 637650,
+    "name": "Final Fantasy XV",
+    "sort_as": "Final Fantasy 15"
+  },
+  {
+    "appid": 2515020,
+    "name": "Final Fantasy XVI",
+    "sort_as": "Final Fantasy 16"
+  },
+  {
+    "appid": 340170,
+    "name": "Final Fantasy Type-0 HD",
+    "sort_as": "Final Fantasy X 1"
   },
   {
     "appid": 214150,
@@ -3918,21 +3938,6 @@
     "appid": 1271100,
     "name": "Deadly Premonition 2: A Blessing in Disguise",
     "sort_as": "Deadly Premonition 2"
-  },
-  {
-    "appid": 1173770,
-    "name": "FINAL FANTASY",
-    "sort_as": "FINAL FANTASY 01"
-  },
-  {
-    "appid": 1173780,
-    "name": "FINAL FANTASY II",
-    "sort_as": "FINAL FANTASY 02"
-  },
-  {
-    "appid": 1173790,
-    "name": "FINAL FANTASY III",
-    "sort_as": "FINAL FANTASY 03"
   },
   {
     "appid": 574050,
