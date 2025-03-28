@@ -1860,6 +1860,16 @@
     "sort_as": "Oddworld: Soulstorm"
   },
   {
+    "appid": 921570,
+    "name": "Octopath Traveler",
+    "sort_as": "Octopath Traveler 1"
+  },
+  {
+    "appid": 1971650,
+    "name": "Octopath Traveler II",
+    "sort_as": "Octopath Traveler 2"
+  },
+  {
     "appid": 1190170,
     "name": "OlliOlli World",
     "sort_as": "OlliOlli 3"
