@@ -5,6 +5,21 @@
     "sort_as": "Hack G.U. Last Recode"
   },
   {
+    "appid": 502500,
+    "name": "Ace Combat 7: Skies Unknown",
+    "sort_as": "Ace Combat 7: Skies Unknown"
+  },
+  {
+    "appid": 907820,
+    "name": "Aeon of Sands: The Trail",
+    "sort_as": "Aeon of Sands: The Trail"
+  },
+  {
+    "appid": 1466860,
+    "name": "Age of Empires IV",
+    "sort_as": "Age of Empires IV"
+  },
+  {
     "appid": 351480,
     "name": "Age of Fear: The Undead King",
     "sort_as": "Age of Fear 1"
@@ -60,6 +75,11 @@
     "sort_as": "AI: The Somnium Files - nirvanA Initiative"
   },
   {
+    "appid": 115220,
+    "name": "American Conquest: Fight Back",
+    "sort_as": "American Conquest: Fight Back"
+  },
+  {
     "appid": 239200,
     "name": "Amnesia: A Machine for Pigs",
     "sort_as": "Amnesia 2"
@@ -73,6 +93,26 @@
     "appid": 999220,
     "name": "Amnesia: Rebirth",
     "sort_as": "Amnesia 3"
+  },
+  {
+    "appid": 1281630,
+    "name": "Anno 1404",
+    "sort_as": "Anno 1404"
+  },
+  {
+    "appid": 2820110,
+    "name": "Anno 1503",
+    "sort_as": "Anno 1503"
+  },
+  {
+    "appid": 2820130,
+    "name": "Anno 1602",
+    "sort_as": "Anno 1602"
+  },
+  {
+    "appid": 2820140,
+    "name": "Anno 1701",
+    "sort_as": "Anno 1701"
   },
   {
     "appid": 91200,
@@ -113,6 +153,11 @@
     "appid": 65780,
     "name": "Arma: Armed Assault",
     "sort_as": "Arma 1"
+  },
+  {
+    "appid": 1888160,
+    "name": "Armored Core VI: Fires of Rubicon",
+    "sort_as": "Armored Core 6"
   },
   {
     "appid": 15100,
@@ -175,6 +220,11 @@
     "sort_as": "Attack on Titan"
   },
   {
+    "appid": 601050,
+    "name": "Attack on Titan 2",
+    "sort_as": "Attack on Titan 2"
+  },
+  {
     "appid": 112100,
     "name": "Avadon: The Black Fortress",
     "sort_as": "Avadon 1"
@@ -220,6 +270,16 @@
     "sort_as": "Avernum 6"
   },
   {
+    "appid": 2000800,
+    "name": "B-17 Flying Fortress: The Mighty 8th Redux",
+    "sort_as": "B-17 Flying Fortress: The Mighty 8th Redux"
+  },
+  {
+    "appid": 865610,
+    "name": "Backbone",
+    "sort_as": "Backbone"
+  },
+  {
     "appid": 1086940,
     "name": "Baldur's Gate 3",
     "sort_as": "Baldur's Gate 3"
@@ -250,6 +310,46 @@
     "sort_as": "The Bard's Tale 1-2-3"
   },
   {
+    "appid": 35140,
+    "name": "Batman: Arkham Asylum",
+    "sort_as": "Batman Arkham 1"
+  },
+  {
+    "appid": 200260,
+    "name": "Batman: Arkham City",
+    "sort_as": "Batman Arkham 2"
+  },
+  {
+    "appid": 209000,
+    "name": "Batman: Arkham Origins",
+    "sort_as": "Batman Arkham 3"
+  },
+  {
+    "appid": 208650,
+    "name": "Batman: Arkham Knight",
+    "sort_as": "Batman Arkham 4"
+  },
+  {
+    "appid": 1238840,
+    "name": "Battlefield 1",
+    "sort_as": "Battlefield 1"
+  },
+  {
+    "appid": 1238810,
+    "name": "Battlefield V",
+    "sort_as": "Battlefield 5"
+  },
+  {
+    "appid": 24960,
+    "name": "Battlefield: Bad Company 2",
+    "sort_as": "Battlefield: Bad Company 2"
+  },
+  {
+    "appid": 559640,
+    "name": "Betrayal at Krondor",
+    "sort_as": "Betrayal at Krondor"
+  },
+  {
     "appid": 1146310,
     "name": "Beyond a Steel Sky",
     "sort_as": "Beneath a Steel Sky 2"
@@ -258,6 +358,11 @@
     "appid": 1368340,
     "name": "Beneath a Steel Sky",
     "sort_as": "Beneath a Steel Sky 1"
+  },
+  {
+    "appid": 325160,
+    "name": "Bik: A Space Adventure",
+    "sort_as": "Bik: A Space Adventure"
   },
   {
     "appid": 63710,
@@ -295,6 +400,16 @@
     "sort_as": "Blitzkrieg 2"
   },
   {
+    "appid": 299030,
+    "name": "Blood",
+    "sort_as": "Blood 1"
+  },
+  {
+    "appid": 1010750,
+    "name": "Blood: Fresh Supply",
+    "sort_as": "Blood 1 RE"
+  },
+  {
     "appid": 313470,
     "name": "Boot Hill Heroes",
     "sort_as": "Boot Hill Heroes 1"
@@ -305,6 +420,11 @@
     "sort_as": "Boot Hill Heroes 2"
   },
   {
+    "appid": 310890,
+    "name": "Breach & Clear: Deadline Rebirth",
+    "sort_as": "Breach & Clear: Deadline Rebirth"
+  },
+  {
     "appid": 57640,
     "name": "Broken Sword: The Shadow of the Templars - Director's Cut",
     "sort_as": "Broken Sword 1 RE"
@@ -313,6 +433,11 @@
     "appid": 33600,
     "name": "Broken Sword II: The Smoking Mirror - Remastered",
     "sort_as": "Broken Sword 2 RE"
+  },
+  {
+    "appid": 225080,
+    "name": "Brothers: A Tale of Two Sons",
+    "sort_as": "Brothers: A Tale of Two Sons"
   },
   {
     "appid": 15190,
@@ -330,6 +455,21 @@
     "sort_as": "Brothers in Arms 3"
   },
   {
+    "appid": 12200,
+    "name": "Bully",
+    "sort_as": "Bully"
+  },
+  {
+    "appid": 290100,
+    "name": "Bulwark: Falconeer Chronicles",
+    "sort_as": "Bulwark: Falconeer Chronicles"
+  },
+  {
+    "appid": 517790,
+    "name": "Caesar III",
+    "sort_as": "Caesar 3"
+  },
+  {
     "appid": 889600,
     "name": "The Caligula Effect: Overdose",
     "sort_as": "The Caligula Effect 1"
@@ -338,6 +478,16 @@
     "appid": 2620,
     "name": "Call of Duty",
     "sort_as": "Call of Duty 1"
+  },
+  {
+    "appid": 400750,
+    "name": "Call to Arms: Gates of Hell - Ostfront",
+    "sort_as": "Call to Arms: Gates of Hell - Ostfront"
+  },
+  {
+    "appid": 41740,
+    "name": "Cargo! The Quest for Gravity",
+    "sort_as": "Cargo! The Quest for Gravity"
   },
   {
     "appid": 234080,
@@ -355,29 +505,34 @@
     "sort_as": "Catherine"
   },
   {
-    "appid": 214340,
-    "name": "Deponia",
-    "sort_as": "Deponia 1"
+    "appid": 1265220,
+    "name": "Cauldrons of War: Barbarossa",
+    "sort_as": "Cauldrons of War: Barbarossa"
   },
   {
-    "appid": 220740,
-    "name": "Chaos on Deponia",
-    "sort_as": "Deponia 2"
+    "appid": 1497230,
+    "name": "Cauldrons of War: Stalingrad",
+    "sort_as": "Cauldrons of War: Stalingrad"
   },
   {
-    "appid": 241910,
-    "name": "Goodbye Deponia",
-    "sort_as": "Deponia 3"
+    "appid": 1016800,
+    "name": "Chernobylite",
+    "sort_as": "Chernobylite"
   },
   {
-    "appid": 421050,
-    "name": "Deponia Doomsday",
-    "sort_as": "Deponia 4"
+    "appid": 613830,
+    "name": "Chrono Trigger",
+    "sort_as": "Chrono Trigger"
   },
   {
-    "appid": 292910,
-    "name": "Deponia: The Complete Journey",
-    "sort_as": "Deponia 3X"
+    "appid": 297750,
+    "name": "Close Combat: Gateway to Caen",
+    "sort_as": "Close Combat: Gateway to Caen"
+  },
+  {
+    "appid": 368220,
+    "name": "Close Combat: Panthers in the Fog",
+    "sort_as": "Close Combat: Panthers in the Fog"
   },
   {
     "appid": 443740,
@@ -405,14 +560,59 @@
     "sort_as": "Codename: Panzers 3"
   },
   {
-    "appid": 24810,
-    "name": "Command & Conquer 3: Kane's Wrath",
-    "sort_as": "Command & Conquer 3X"
+    "appid": 1502380,
+    "name": "Combat Mission: Black Sea",
+    "sort_as": "Combat Mission: Black Sea"
+  },
+  {
+    "appid": 2229830,
+    "name": "Command & Conquer",
+    "sort_as": "Command & Conquer 1"
+  },
+  {
+    "appid": 1213210,
+    "name": "Command & Conquer Remastered Collection",
+    "sort_as": "Command & Conquer 1 RE"
+  },
+  {
+    "appid": 2229880,
+    "name": "Command & Conquer: Tiberian Sun",
+    "sort_as": "Command & Conquer 2"
   },
   {
     "appid": 24790,
     "name": "Command & Conquer 3: Tiberium Wars",
     "sort_as": "Command & Conquer 3"
+  },
+  {
+    "appid": 24810,
+    "name": "Command & Conquer 3: Kane's Wrath",
+    "sort_as": "Command & Conquer 3X"
+  },
+  {
+    "appid": 47700,
+    "name": "Command & Conquer 4: Tiberian Twilight",
+    "sort_as": "Command & Conquer 4"
+  },
+  {
+    "appid": 2229870,
+    "name": "Command & Conquer: Generals",
+    "sort_as": "Command & Conquer: Generals"
+  },
+  {
+    "appid": 2732960,
+    "name": "Command & Conquer: Generals - Zero Hour",
+    "sort_as": "Command & Conquer: Generals X"
+  },
+  {
+    "appid": 2229840,
+    "name": "Command & Conquer: Red Alert",
+    "sort_as": "Command & Conquer: Red Alert 1"
+  },
+  {
+    "appid": 2229850,
+    "name": "Command & Conquer: Red Alert 2",
+    "sort_as": "Command & Conquer: Red Alert 2"
   },
   {
     "appid": 17480,
@@ -422,12 +622,12 @@
   {
     "appid": 24800,
     "name": "Command & Conquer: Red Alert 3 - Uprising",
-    "sort_as": "Command & Conquer: Red Alert 3 - Uprising"
+    "sort_as": "Command & Conquer: Red Alert 3X"
   },
   {
-    "appid": 1213210,
-    "name": "Command & Conquer Remastered Collection",
-    "sort_as": "Command & Conquer 1 RE"
+    "appid": 2229890,
+    "name": "Command & Conquer: Renegade",
+    "sort_as": "Command & Conquer: Renegade"
   },
   {
     "appid": 1100410,
@@ -468,6 +668,16 @@
     "appid": 20540,
     "name": "Company of Heroes: Tales of Valor",
     "sort_as": "Company of Heroes 1X2"
+  },
+  {
+    "appid": 264240,
+    "name": "Consortium",
+    "sort_as": "Consortium"
+  },
+  {
+    "appid": 870780,
+    "name": "Control",
+    "sort_as": "Control"
   },
   {
     "appid": 4880,
@@ -530,6 +740,21 @@
     "sort_as": "Creeper World 1"
   },
   {
+    "appid": 1608070,
+    "name": "Crisis Core: Final Fantasy VII Reunion",
+    "sort_as": "Crisis Core: Final Fantasy VII Reunion"
+  },
+  {
+    "appid": 310490,
+    "name": "Crookz: The Big Heist",
+    "sort_as": "Crookz: The Big Heist"
+  },
+  {
+    "appid": 204940,
+    "name": "Crusader Kings",
+    "sort_as": "Crusader Kings"
+  },
+  {
     "appid": 108800,
     "name": "Crysis 2",
     "sort_as": "Crysis 2"
@@ -568,6 +793,16 @@
     "appid": 1057540,
     "name": "Cthulhu Saves Christmas",
     "sort_as": "Cthulhu Saves the World 2"
+  },
+  {
+    "appid": 534290,
+    "name": "Cursed Castilla",
+    "sort_as": "Cursed Castilla"
+  },
+  {
+    "appid": 612390,
+    "name": "Dandara",
+    "sort_as": "Dandara"
   },
   {
     "appid": 413420,
@@ -645,9 +880,9 @@
     "sort_as": "Dark Souls 2 RE"
   },
   {
-    "appid": 462780,
-    "name": "Darksiders: Warmastered Edition",
-    "sort_as": "Darksiders 1 RE"
+    "appid": 262060,
+    "name": "Darkest Dungeon",
+    "sort_as": "Darkest Dungeon"
   },
   {
     "appid": 50620,
@@ -655,9 +890,24 @@
     "sort_as": "Darksiders 1"
   },
   {
+    "appid": 462780,
+    "name": "Darksiders: Warmastered Edition",
+    "sort_as": "Darksiders 1 RE"
+  },
+  {
+    "appid": 388410,
+    "name": "Darksiders II: Deathinitive Edition",
+    "sort_as": "Darksiders 2 RE"
+  },
+  {
+    "appid": 606280,
+    "name": "Darksiders III",
+    "sort_as": "Darksiders 3"
+  },
+  {
     "appid": 710920,
     "name": "Darksiders Genesis",
-    "sort_as": "Darksiders X1"
+    "sort_as": "Darksiders X 1"
   },
   {
     "appid": 17470,
@@ -665,9 +915,79 @@
     "sort_as": "Dead Space 1"
   },
   {
+    "appid": 1693980,
+    "name": "Dead Space (2023)",
+    "sort_as": "Dead Space 1 RE"
+  },
+  {
     "appid": 1238060,
     "name": "Dead Space 3",
     "sort_as": "Dead Space 3"
+  },
+  {
+    "appid": 247660,
+    "name": "Deadly Premonition: The Director's Cut",
+    "sort_as": "Deadly Premonition 1"
+  },
+  {
+    "appid": 1271100,
+    "name": "Deadly Premonition 2: A Blessing in Disguise",
+    "sort_as": "Deadly Premonition 2"
+  },
+  {
+    "appid": 356650,
+    "name": "Death's Gambit",
+    "sort_as": "Death's Gambit"
+  },
+  {
+    "appid": 343820,
+    "name": "Deja Vu: MacVenture Series",
+    "sort_as": "Deja Vu 1"
+  },
+  {
+    "appid": 343830,
+    "name": "Deja Vu II: MacVenture Series",
+    "sort_as": "Deja Vu 2"
+  },
+  {
+    "appid": 214340,
+    "name": "Deponia",
+    "sort_as": "Deponia 1"
+  },
+  {
+    "appid": 220740,
+    "name": "Chaos on Deponia",
+    "sort_as": "Deponia 2"
+  },
+  {
+    "appid": 241910,
+    "name": "Goodbye Deponia",
+    "sort_as": "Deponia 3"
+  },
+  {
+    "appid": 421050,
+    "name": "Deponia Doomsday",
+    "sort_as": "Deponia 4"
+  },
+  {
+    "appid": 292910,
+    "name": "Deponia: The Complete Journey",
+    "sort_as": "Deponia 3X"
+  },
+  {
+    "appid": 260730,
+    "name": "Desperados: Wanted Dead or Alive",
+    "sort_as": "Desperados 1"
+  },
+  {
+    "appid": 9710,
+    "name": "Desperados 2: Cooper’s Revenge",
+    "sort_as": "Desperados 2"
+  },
+  {
+    "appid": 610370,
+    "name": "Desperados III",
+    "sort_as": "Desperados 3"
   },
   {
     "appid": 6910,
@@ -725,6 +1045,11 @@
     "sort_as": "Disgaea 1"
   },
   {
+    "appid": 614570,
+    "name": "Dishonored: Death of the Outsider",
+    "sort_as": "Dishonored 3"
+  },
+  {
     "appid": 214170,
     "name": "Divine Divinity",
     "sort_as": "Divinity 1"
@@ -760,6 +1085,46 @@
     "sort_as": "Divinity 5"
   },
   {
+    "appid": 248510,
+    "name": "Dominions 3: The Awakening",
+    "sort_as": "Dominions 3: The Awakening"
+  },
+  {
+    "appid": 259060,
+    "name": "Dominions 4: Thrones of Ascension",
+    "sort_as": "Dominions 4: Thrones of Ascension"
+  },
+  {
+    "appid": 722060,
+    "name": "Dominions 5: Warriors of the Faith",
+    "sort_as": "Dominions 5: Warriors of the Faith"
+  },
+  {
+    "appid": 2511500,
+    "name": "Dominions 6: Rise of the Pantokrator",
+    "sort_as": "Dominions 6: Rise of the Pantokrator"
+  },
+  {
+    "appid": 2280,
+    "name": "DOOM (1993)",
+    "sort_as": "DOOM 1"
+  },
+  {
+    "appid": 2300,
+    "name": "DOOM II",
+    "sort_as": "DOOM 2"
+  },
+  {
+    "appid": 9160,
+    "name": "Master Levels for DOOM II",
+    "sort_as": "Doom 2X1"
+  },
+  {
+    "appid": 2290,
+    "name": "Final DOOM",
+    "sort_as": "Doom 2X2"
+  },
+  {
     "appid": 208200,
     "name": "DOOM 3: BFG Edition",
     "sort_as": "DOOM 3X2"
@@ -770,11 +1135,6 @@
     "sort_as": "DOOM 3X1"
   },
   {
-    "appid": 1148590,
-    "name": "DOOM 64",
-    "sort_as": "DOOM X"
-  },
-  {
     "appid": 379720,
     "name": "DOOM",
     "sort_as": "DOOM 4"
@@ -783,6 +1143,11 @@
     "appid": 782330,
     "name": "DOOM Eternal",
     "sort_as": "DOOM 5"
+  },
+  {
+    "appid": 1148590,
+    "name": "DOOM 64",
+    "sort_as": "DOOM X"
   },
   {
     "appid": 1238040,
@@ -810,9 +1175,19 @@
     "sort_as": "Dragon Age 3"
   },
   {
+    "appid": 367500,
+    "name": "Dragon's Dogma: Dark Arisen",
+    "sort_as": "Dragon's Dogma 1"
+  },
+  {
     "appid": 742120,
     "name": "Dragon Quest XI: Echoes of an Elusive Age",
     "sort_as": "Dragon Quest 11"
+  },
+  {
+    "appid": 2436570,
+    "name": "Dragon Quest Builders",
+    "sort_as": "Dragon Quest X Builders 1"
   },
   {
     "appid": 1072420,
@@ -825,9 +1200,29 @@
     "sort_as": "Dragon Quest X Heroes 1"
   },
   {
+    "appid": 574050,
+    "name": "Dragon Quest Heroes II",
+    "sort_as": "Dragon Quest X Heroes 2"
+  },
+  {
     "appid": 2175540,
     "name": "Dragon Quest Monsters: The Dark Prince",
     "sort_as": "Dragon Quest X Monsters 1"
+  },
+  {
+    "appid": 2021210,
+    "name": "Dragon Quest Treasures",
+    "sort_as": "Dragon Quest X Treasures"
+  },
+  {
+    "appid": 12640,
+    "name": "Drakensang: The Dark Eye",
+    "sort_as": "Drakensang: The Dark Eye"
+  },
+  {
+    "appid": 33770,
+    "name": "Drakensang: The River of Time",
+    "sort_as": "Drakensang: The River of Time"
   },
   {
     "appid": 6300,
@@ -838,6 +1233,26 @@
     "appid": 237850,
     "name": "Dreamfall Chapters",
     "sort_as": "Dreamfall 2"
+  },
+  {
+    "appid": 1585180,
+    "name": "Drova: Forsaken Kin",
+    "sort_as": "Drova: Forsaken Kin"
+  },
+  {
+    "appid": 1451080,
+    "name": "Dungeon Encounters",
+    "sort_as": "Dungeon Encounters"
+  },
+  {
+    "appid": 1996630,
+    "name": "Dungeon Keeper",
+    "sort_as": "Dungeon Keeper 1"
+  },
+  {
+    "appid": 2616460,
+    "name": "Dungeon Keeper 2",
+    "sort_as": "Dungeon Keeper 2"
   },
   {
     "appid": 271760,
@@ -858,6 +1273,31 @@
     "appid": 39200,
     "name": "Dungeon Siege II",
     "sort_as": "Dungeon Siege 2"
+  },
+  {
+    "appid": 534380,
+    "name": "Dying Light 2: Stay Human",
+    "sort_as": "Dying Light 2"
+  },
+  {
+    "appid": 278080,
+    "name": "Dynasty Warriors 8: Xtreme Legends",
+    "sort_as": "Dynasty Warriors 8"
+  },
+  {
+    "appid": 235660,
+    "name": "Eador: Genesis",
+    "sort_as": "Eador: Genesis"
+  },
+  {
+    "appid": 477730,
+    "name": "Eador: Imperium",
+    "sort_as": "Eador: Imperium"
+  },
+  {
+    "appid": 410320,
+    "name": "Earth Defense Force 4.1: The Shadow of New Despair",
+    "sort_as": "Earth Defense Force 4"
   },
   {
     "appid": 1812290,
@@ -900,6 +1340,11 @@
     "sort_as": "The Elder Scrolls X2"
   },
   {
+    "appid": 383120,
+    "name": "Empyrion: Galactic Survival",
+    "sort_as": "Empyrion: Galactic Survival"
+  },
+  {
     "appid": 289130,
     "name": "Endless Legend",
     "sort_as": "Endless Legend"
@@ -933,6 +1378,16 @@
     "appid": 23420,
     "name": "Europa Universalis: Rome",
     "sort_as": "Europa Universalis: Rome"
+  },
+  {
+    "appid": 396750,
+    "name": "Everspace",
+    "sort_as": "Everspace"
+  },
+  {
+    "appid": 700600,
+    "name": "Evil Genius 2: World Domination",
+    "sort_as": "Evil Genius 2"
   },
   {
     "appid": 290770,
@@ -973,6 +1428,11 @@
     "appid": 233270,
     "name": "Far Cry 3: Blood Dragon",
     "sort_as": "Far Cry 3: Blood Dragon"
+  },
+  {
+    "appid": 1732190,
+    "name": "Fatal Frame: Maiden of Black Water",
+    "sort_as": "Fatal Frame: Maiden of Black Water"
   },
   {
     "appid": 1173770,
@@ -1070,6 +1530,11 @@
     "sort_as": "Final Fantasy X 1"
   },
   {
+    "appid": 1316230,
+    "name": "Force of Nature 2: Ghost Keeper",
+    "sort_as": "Force of Nature 2"
+  },
+  {
     "appid": 214150,
     "name": "Galactic Civilizations",
     "sort_as": "Galactic Civilizations 1"
@@ -1095,6 +1560,16 @@
     "sort_as": "Geneforge 1: Mutagen"
   },
   {
+    "appid": 2480560,
+    "name": "Geneforge 2: Infestation",
+    "sort_as": "Geneforge 2: Infestation"
+  },
+  {
+    "appid": 704270,
+    "name": "Generation Zero",
+    "sort_as": "Generation Zero"
+  },
+  {
     "appid": 460870,
     "name": "God Eater Resurrection",
     "sort_as": "God Eater 1"
@@ -1103,6 +1578,11 @@
     "appid": 438490,
     "name": "God Eater 2: Rage Burst",
     "sort_as": "God Eater 2"
+  },
+  {
+    "appid": 1038810,
+    "name": "God Wars: The Complete Legend",
+    "sort_as": "God Wars: The Complete Legend"
   },
   {
     "appid": 65540,
@@ -1130,6 +1610,26 @@
     "sort_as": "Grand Theft Auto 3"
   },
   {
+    "appid": 12110,
+    "name": "Grand Theft Auto: Vice City",
+    "sort_as": "Grand Theft Auto 3X1"
+  },
+  {
+    "appid": 12240,
+    "name": "Grand Theft Auto: Vice City",
+    "sort_as": "Grand Theft Auto 3X1"
+  },
+  {
+    "appid": 12250,
+    "name": "Grand Theft Auto: San Andreas",
+    "sort_as": "Grand Theft Auto 3X2"
+  },
+  {
+    "appid": 12120,
+    "name": "Grand Theft Auto: San Andreas",
+    "sort_as": "Grand Theft Auto 3X2"
+  },
+  {
     "appid": 12210,
     "name": "Grand Theft Auto IV",
     "sort_as": "Grand Theft Auto 4"
@@ -1145,24 +1645,19 @@
     "sort_as": "Grand Theft Auto 5 R"
   },
   {
-    "appid": 12250,
-    "name": "Grand Theft Auto: San Andreas",
-    "sort_as": "Grand Theft Auto 3X2"
+    "appid": 2109370,
+    "name": "The Great War: Western Front",
+    "sort_as": "The Great War: Western Front"
   },
   {
-    "appid": 12120,
-    "name": "Grand Theft Auto: San Andreas",
-    "sort_as": "Grand Theft Auto 3X2"
+    "appid": 650670,
+    "name": "Grimoire: Heralds of the Winged Exemplar",
+    "sort_as": "Grimoire: Heralds of the Winged Exemplar"
   },
   {
-    "appid": 12110,
-    "name": "Grand Theft Auto: Vice City",
-    "sort_as": "Grand Theft Auto 3X1"
-  },
-  {
-    "appid": 12240,
-    "name": "Grand Theft Auto: Vice City",
-    "sort_as": "Grand Theft Auto 3X1"
+    "appid": 254820,
+    "name": "Ground Control",
+    "sort_as": "Ground Control"
   },
   {
     "appid": 426790,
@@ -1183,6 +1678,21 @@
     "appid": 275390,
     "name": "Guacamelee! Super Turbo Championship Edition",
     "sort_as": "Guacamelee! 1 RE"
+  },
+  {
+    "appid": 39520,
+    "name": "Europa 1400: The Guild",
+    "sort_as": "The Guild 1"
+  },
+  {
+    "appid": 39650,
+    "name": "The Guild II",
+    "sort_as": "The Guild 2"
+  },
+  {
+    "appid": 39680,
+    "name": "The Guild II: Renaissance",
+    "sort_as": "The Guild 2X"
   },
   {
     "appid": 371200,
@@ -1247,7 +1757,12 @@
   {
     "appid": 22130,
     "name": "Hearts of Iron II",
-    "sort_as": "Hearts of Iron II"
+    "sort_as": "Hearts of Iron 2"
+  },
+  {
+    "appid": 297000,
+    "name": "Heroes of Might & Magic III HD Edition",
+    "sort_as": "Heroes of Might & Magic 3"
   },
   {
     "appid": 703310,
@@ -1315,6 +1830,11 @@
     "sort_as": "Humankind"
   },
   {
+    "appid": 518790,
+    "name": "theHunter: Call of the Wild",
+    "sort_as": "theHunter: Call of the Wild"
+  },
+  {
     "appid": 15320,
     "name": "IL-2 Sturmovik: 1946",
     "sort_as": "IL-2 Sturmovik 1"
@@ -1353,6 +1873,11 @@
     "appid": 560430,
     "name": "Indiana Jones and the Emperor's Tomb",
     "sort_as": "Indiana Jones 4"
+  },
+  {
+    "appid": 1251850,
+    "name": "Inferno: Beyond the 7th Circle",
+    "sort_as": "Inferno: Beyond the 7th Circle"
   },
   {
     "appid": 548680,
@@ -1400,6 +1925,11 @@
     "sort_as": "Jagged Alliance X 4"
   },
   {
+    "appid": 250260,
+    "name": "Jazzpunk",
+    "sort_as": "Jazzpunk"
+  },
+  {
     "appid": 262850,
     "name": "The Journey Down: Chapter Two",
     "sort_as": "The Journey Down 2"
@@ -1440,14 +1970,19 @@
     "sort_as": "Kao the Kangaroo 3"
   },
   {
-    "appid": 1121420,
-    "name": "Kingdom Under Fire: The Crusaders ",
-    "sort_as": "Kingdom Under Fire 1"
+    "appid": 1269710,
+    "name": "Kainga: Seeds of Civilization",
+    "sort_as": "Kainga: Seeds of Civilization"
   },
   {
-    "appid": 1315200,
-    "name": "Kingdom Under Fire: Heroes",
-    "sort_as": "Kingdom Under Fire 2"
+    "appid": 24400,
+    "name": "King Arthur: The Role-playing Wargame",
+    "sort_as": "King Arthur 1"
+  },
+  {
+    "appid": 24480,
+    "name": "King Arthur II: The Role-playing Wargame",
+    "sort_as": "King Arthur 2"
   },
   {
     "appid": 25900,
@@ -1480,6 +2015,41 @@
     "sort_as": "King's Bounty 2"
   },
   {
+    "appid": 368230,
+    "name": "Kingdom",
+    "sort_as": "Kingdom 1"
+  },
+  {
+    "appid": 496300,
+    "name": "Kingdom: New Lands",
+    "sort_as": "Kingdom 2"
+  },
+  {
+    "appid": 701160,
+    "name": "Kingdom: Two Crowns",
+    "sort_as": "Kingdom 3"
+  },
+  {
+    "appid": 1121420,
+    "name": "Kingdom Under Fire: The Crusaders ",
+    "sort_as": "Kingdom Under Fire 1"
+  },
+  {
+    "appid": 1315200,
+    "name": "Kingdom Under Fire: Heroes",
+    "sort_as": "Kingdom Under Fire 2"
+  },
+  {
+    "appid": 102500,
+    "name": "Kingdoms of Amalur: Reckoning",
+    "sort_as": "Kingdoms of Amalur: Reckoning"
+  },
+  {
+    "appid": 289360,
+    "name": "Konung 2: Blood of Titans",
+    "sort_as": "Konung 2"
+  },
+  {
     "appid": 284390,
     "name": "The Last Door",
     "sort_as": "The Last Door"
@@ -1488,6 +2058,16 @@
     "appid": 402530,
     "name": "The Last Door: Season 2",
     "sort_as": "The Last Door: Season 2"
+  },
+  {
+    "appid": 224940,
+    "name": "Legacy of Kain: Soul Reaver 2",
+    "sort_as": "Legacy of Kain: Soul Reaver 2"
+  },
+  {
+    "appid": 873890,
+    "name": "Legends of Amberland: The Forgotten Crown",
+    "sort_as": "Legends of Amberland 1"
   },
   {
     "appid": 251150,
@@ -1538,6 +2118,26 @@
     "appid": 1668540,
     "name": "The Legend of Heroes: Trails into Reverie",
     "sort_as": "The Legend of Heroes: Trails 10"
+  },
+  {
+    "appid": 1668530,
+    "name": "The Legend of Nayuta: Boundless Trails",
+    "sort_as": "The Legend of Heroes: Trails X"
+  },
+  {
+    "appid": 556740,
+    "name": "Legrand Legacy: Tale of the Fatebounds",
+    "sort_as": "Legrand Legacy"
+  },
+  {
+    "appid": 252710,
+    "name": "The Last Express",
+    "sort_as": "The Last Express"
+  },
+  {
+    "appid": 1663640,
+    "name": "The Last Oricru",
+    "sort_as": "The Last Oricru"
   },
   {
     "appid": 213330,
@@ -1610,9 +2210,19 @@
     "sort_as": "Life is Strange 1"
   },
   {
+    "appid": 2933130,
+    "name": "The Lord of the Rings: Return to Moria",
+    "sort_as": "The Lord of the Rings: Return to Moria"
+  },
+  {
     "appid": 212500,
     "name": "The Lord of the Rings Online",
     "sort_as": "The Lord of the Rings Online"
+  },
+  {
+    "appid": 1462570,
+    "name": "Lost in Random",
+    "sort_as": "Lost in Random"
   },
   {
     "appid": 746460,
@@ -1660,6 +2270,26 @@
     "sort_as": "Majesty 2: The Fantasy Kingdom Sim"
   },
   {
+    "appid": 1717640,
+    "name": "Mahokenshi",
+    "sort_as": "Mahokenshi"
+  },
+  {
+    "appid": 2398450,
+    "name": "Marathon",
+    "sort_as": "Marathon 1"
+  },
+  {
+    "appid": 2398490,
+    "name": "Marathon 2: Durandal",
+    "sort_as": "Marathon 2"
+  },
+  {
+    "appid": 2398520,
+    "name": "Marathon Infinity",
+    "sort_as": "Marathon 3"
+  },
+  {
     "appid": 17460,
     "name": "Mass Effect",
     "sort_as": "Mass Effect 1"
@@ -1690,14 +2320,54 @@
     "sort_as": "Mass Effect: Andromeda"
   },
   {
-    "appid": 9160,
-    "name": "Master Levels for DOOM II",
-    "sort_as": "Doom 2X1"
+    "appid": 1146370,
+    "name": "Master of Magic (1994)",
+    "sort_as": "Master of Magic 1"
   },
   {
-    "appid": 2290,
-    "name": "Final DOOM",
-    "sort_as": "Doom 2X2"
+    "appid": 1623070,
+    "name": "Master of Magic",
+    "sort_as": "Master of Magic 2"
+  },
+  {
+    "appid": 2131680,
+    "name": "Metal Gear & Metal Gear 2: Solid Snake",
+    "sort_as": "Metal Gear 1 + 2"
+  },
+  {
+    "appid": 2131630,
+    "name": "Metal Gear Solid",
+    "sort_as": "Metal Gear Solid 1"
+  },
+  {
+    "appid": 2131640,
+    "name": "Metal Gear Solid 2: Sons of Liberty ",
+    "sort_as": "Metal Gear Solid 2"
+  },
+  {
+    "appid": 2131650,
+    "name": "Metal Gear Solid 3: Snake Eater",
+    "sort_as": "Metal Gear Solid 3"
+  },
+  {
+    "appid": 311340,
+    "name": "Metal Gear Solid V: Ground Zeroes",
+    "sort_as": "Metal Gear Solid 5 1"
+  },
+  {
+    "appid": 287700,
+    "name": "Metal Gear Solid V: The Phantom Pain",
+    "sort_as": "Metal Gear Solid 5 2"
+  },
+  {
+    "appid": 2306740,
+    "name": "Metal Gear Solid: Master Collection Vol.1 Bonus Content",
+    "sort_as": "Metal Gear Solid X 1"
+  },
+  {
+    "appid": 235460,
+    "name": "Metal Gear Rising: Revengeance",
+    "sort_as": "Metal Gear Solid X 2"
   },
   {
     "appid": 43110,
@@ -1765,6 +2435,11 @@
     "sort_as": "Monster Hunter 5"
   },
   {
+    "appid": 1714580,
+    "name": "Moon: Remix RPG Adventure",
+    "sort_as": "Moon: Remix RPG Adventure"
+  },
+  {
     "appid": 22100,
     "name": "Mount & Blade",
     "sort_as": "Mount & Blade 1"
@@ -1783,6 +2458,11 @@
     "appid": 48720,
     "name": "Mount & Blade: With Fire and Sword",
     "sort_as": "Mount & Blade 1X2"
+  },
+  {
+    "appid": 489140,
+    "name": "Mr. Shifty",
+    "sort_as": "Mr. Shifty"
   },
   {
     "appid": 925930,
@@ -1818,6 +2498,11 @@
     "appid": 798460,
     "name": "Ni no Kuni: Wrath of the White Witch Remastered",
     "sort_as": "Ni no Kuni 1"
+  },
+  {
+    "appid": 440650,
+    "name": "Niche: A Genetics Survival Game",
+    "sort_as": "Niche: A Genetics Survival Game"
   },
   {
     "appid": 524220,
@@ -1885,24 +2570,34 @@
     "sort_as": "OlliOlli 2"
   },
   {
+    "appid": 814000,
+    "name": "One Piece Odyssey",
+    "sort_as": "One Piece Odyssey"
+  },
+  {
     "appid": 457680,
-    "name": "OPUS: The Day We Found Earth",
-    "sort_as": "OPUS 1"
+    "name": "Opus: The Day We Found Earth",
+    "sort_as": "Opus 1"
   },
   {
     "appid": 742250,
-    "name": "OPUS: Rocket of Whispers",
-    "sort_as": "OPUS 2"
+    "name": "Opus: Rocket of Whispers",
+    "sort_as": "Opus 2"
   },
   {
     "appid": 336610,
     "name": "Outcast ",
-    "sort_as": "Outcast  1"
+    "sort_as": "Outcast 1"
   },
   {
     "appid": 618970,
     "name": "Outcast: Second Contact",
     "sort_as": "Outcast 1 RE"
+  },
+  {
+    "appid": 1013140,
+    "name": "Outcast: A New Beginning",
+    "sort_as": "Outcast 2"
   },
   {
     "appid": 559620,
@@ -1913,6 +2608,11 @@
     "appid": 448510,
     "name": "Overcooked!",
     "sort_as": "Overcooked!"
+  },
+  {
+    "appid": 2106840,
+    "name": "Paranormasight: The Seven Mysteries of Honjo",
+    "sort_as": "Paranormasight"
   },
   {
     "appid": 1184370,
@@ -1930,14 +2630,34 @@
     "sort_as": "Patrician IV"
   },
   {
+    "appid": 2541170,
+    "name": "Persona: Anomalous Tower Chronicle",
+    "sort_as": "Persona 1 MOB"
+  },
+  {
     "appid": 332330,
     "name": "PixelJunk Shooter Ultimate",
     "sort_as": "PixelJunk Shooter Ultimate"
   },
   {
+    "appid": 2616430,
+    "name": "Populous: The Beginning",
+    "sort_as": "Populous: The Beginning"
+  },
+  {
+    "appid": 736220,
+    "name": "Post Scriptum",
+    "sort_as": "Post Scriptum"
+  },
+  {
     "appid": 1100420,
     "name": "Praetorians HD Remaster",
     "sort_as": "Praetorians HD Remaster"
+  },
+  {
+    "appid": 547930,
+    "name": "The Precursors",
+    "sort_as": "The Precursors"
   },
   {
     "appid": 19980,
@@ -1973,6 +2693,11 @@
     "appid": 407900,
     "name": "Princess Remedy in a World of Hurt",
     "sort_as": "Princess Remedy 1"
+  },
+  {
+    "appid": 115320,
+    "name": "Prototype 2",
+    "sort_as": "Prototype 2"
   },
   {
     "appid": 2310,
@@ -2050,6 +2775,21 @@
     "sort_as": "Rayman 5"
   },
   {
+    "appid": 267670,
+    "name": "Realms of Arkania: Blade of Destiny",
+    "sort_as": "Realms of Arkania 1"
+  },
+  {
+    "appid": 270750,
+    "name": "Realms of Arkania: Star Trail",
+    "sort_as": "Realms of Arkania 2"
+  },
+  {
+    "appid": 270760,
+    "name": "Realms of Arkania: Shadows over Riva",
+    "sort_as": "Realms of Arkania 3"
+  },
+  {
     "appid": 20530,
     "name": "Red Faction",
     "sort_as": "Red Faction 1"
@@ -2085,19 +2825,34 @@
     "sort_as": "Red Orchestra 2"
   },
   {
+    "appid": 339340,
+    "name": "Resident Evil 0",
+    "sort_as": "Resident Evil 0"
+  },
+  {
     "appid": 304240,
     "name": "Resident Evil",
     "sort_as": "Resident Evil 1 RE"
   },
   {
-    "appid": 339340,
-    "name": "Resident Evil 0",
-    "sort_as": "Resident Evil 0 RE"
-  },
-  {
     "appid": 418370,
     "name": "Resident Evil 7 Biohazard",
     "sort_as": "Resident Evil 7"
+  },
+  {
+    "appid": 1196590,
+    "name": "Resident Evil Village",
+    "sort_as": "Resident Evil 8"
+  },
+  {
+    "appid": 222480,
+    "name": "Resident Evil Revelations",
+    "sort_as": "Resident Evil X 1 Revelations 1"
+  },
+  {
+    "appid": 287290,
+    "name": "Resident Evil Revelations 2",
+    "sort_as": "Resident Evil X 1 Revelations 2"
   },
   {
     "appid": 952070,
@@ -2110,69 +2865,24 @@
     "sort_as": "Resident Evil X 4"
   },
   {
-    "appid": 222480,
-    "name": "Resident Evil Revelations",
-    "sort_as": "Resident Evil X 1 Revelations 1"
-  },
-  {
-    "appid": 1196590,
-    "name": "Resident Evil Village",
-    "sort_as": "Resident Evil 8"
-  },
-  {
     "appid": 645730,
     "name": "Resonance of Fate",
     "sort_as": "Resonance of Fate"
   },
   {
-    "appid": 7000,
-    "name": "Tomb Raider: Legend",
-    "sort_as": "Tomb Raider 07"
+    "appid": 204630,
+    "name": "Retro City Rampage DX",
+    "sort_as": "Retro City Rampage DX"
   },
   {
-    "appid": 8000,
-    "name": "Tomb Raider: Anniversary",
-    "sort_as": "Tomb Raider 08"
+    "appid": 40390,
+    "name": "Risen 2: Dark Waters",
+    "sort_as": "Risen 2"
   },
   {
-    "appid": 8140,
-    "name": "Tomb Raider: Underworld",
-    "sort_as": "Tomb Raider 09"
-  },
-  {
-    "appid": 203160,
-    "name": "Tomb Raider",
-    "sort_as": "Tomb Raider 10"
-  },
-  {
-    "appid": 391220,
-    "name": "Rise of the Tomb Raider",
-    "sort_as": "Tomb Raider 11"
-  },
-  {
-    "appid": 224960,
-    "name": "Tomb Raider I",
-    "sort_as": "Tomb Raider 01"
-  },
-  {
-    "appid": 225300,
-    "name": "Tomb Raider II",
-    "sort_as": "Tomb Raider 02"
-  },
-  {
-    "appid": 225320,
-    "name": "Tomb Raider III: Adventures of Lara Croft",
-    "sort_as": "Tomb Raider 03"
-  },
-  {
-    "appid": 224980,
-    "name": "Tomb Raider: The Last Revelation",
-    "sort_as": "Tomb Raider 04"
-  },
-  {
-    "appid": 750920,
-    "name": "Shadow of the Tomb Raider",
-    "sort_as": "Tomb Raider 12"
+    "appid": 249230,
+    "name": "Risen 3: Titan Lords",
+    "sort_as": "Risen 3"
   },
   {
     "appid": 248820,
@@ -2183,6 +2893,11 @@
     "appid": 46560,
     "name": "Robin Hood: The Legend of Sherwood",
     "sort_as": "Robin Hood: The Legend of Sherwood"
+  },
+  {
+    "appid": 434460,
+    "name": "Rock of Ages 2: Bigger & Boulder",
+    "sort_as": "Rock of Ages 2"
   },
   {
     "appid": 215510,
@@ -2230,6 +2945,11 @@
     "sort_as": "Rusty Lake 3"
   },
   {
+    "appid": 24880,
+    "name": "The Saboteur",
+    "sort_as": "The Saboteur"
+  },
+  {
     "appid": 12320,
     "name": "Sacred Gold",
     "sort_as": "Sacred 1"
@@ -2238,6 +2958,41 @@
     "appid": 225640,
     "name": "Sacred 2: Fallen Angel",
     "sort_as": "Sacred 2"
+  },
+  {
+    "appid": 686720,
+    "name": "SaGa Scarlet Grace: Ambitions",
+    "sort_as": "SaGa Scarlet Grace: Ambitions"
+  },
+  {
+    "appid": 1440440,
+    "name": "Sam & Max Save the World",
+    "sort_as": "Sam & Max S01"
+  },
+  {
+    "appid": 1747050,
+    "name": "Sam & Max: Beyond Time and Space",
+    "sort_as": "Sam & Max S02"
+  },
+  {
+    "appid": 1580970,
+    "name": "Samorost",
+    "sort_as": "Samorost 1"
+  },
+  {
+    "appid": 259530,
+    "name": "Savant: Ascent",
+    "sort_as": "Savant: Ascent"
+  },
+  {
+    "appid": 2279330,
+    "name": "Savant: Ascent Remix",
+    "sort_as": "Savant: Ascent RE"
+  },
+  {
+    "appid": 814380,
+    "name": "Sekiro: Shadows Die Twice",
+    "sort_as": "Sekiro: Shadows Die Twice"
   },
   {
     "appid": 41070,
@@ -2295,6 +3050,11 @@
     "sort_as": "The Settlers 7"
   },
   {
+    "appid": 238070,
+    "name": "Shadow Warrior Classic",
+    "sort_as": "Shadow Warrior Classic"
+  },
+  {
     "appid": 234650,
     "name": "Shadowrun Returns",
     "sort_as": "Shadowrun 1"
@@ -2328,6 +3088,11 @@
     "appid": 1191630,
     "name": "Shantae and the Seven Sirens",
     "sort_as": "Shantae 5"
+  },
+  {
+    "appid": 244710,
+    "name": "Shelter",
+    "sort_as": "Shelter 1"
   },
   {
     "appid": 11140,
@@ -2365,6 +3130,31 @@
     "sort_as": "Sherlock Holmes 7"
   },
   {
+    "appid": 1949030,
+    "name": "Sherlock Holmes: The Awakened (2023)",
+    "sort_as": "Sherlock Holmes 8"
+  },
+  {
+    "appid": 250760,
+    "name": "Shovel Knight",
+    "sort_as": "Shovel Knight"
+  },
+  {
+    "appid": 2204130,
+    "name": "Sid Meier's Alpha Centauri",
+    "sort_as": "Sid Meier's Alpha Centauri"
+  },
+  {
+    "appid": 3910,
+    "name": "Sid Meier's Civilization III",
+    "sort_as": "Sid Meier's Civilization III"
+  },
+  {
+    "appid": 1558990,
+    "name": "Siege of Avalon",
+    "sort_as": "Siege of Avalon"
+  },
+  {
     "appid": 15210,
     "name": "Silent Hunter III",
     "sort_as": "Silent Hunter 3"
@@ -2385,9 +3175,24 @@
     "sort_as": "Silent Hunter 5"
   },
   {
+    "appid": 2741560,
+    "name": "SimCity 3000",
+    "sort_as": "SimCity 3"
+  },
+  {
+    "appid": 24780,
+    "name": "SimCity 4",
+    "sort_as": "SimCity 4"
+  },
+  {
     "appid": 1313,
     "name": "SiN",
     "sort_as": "SiN"
+  },
+  {
+    "appid": 307690,
+    "name": "Sleeping Dogs",
+    "sort_as": "Sleeping Dogs"
   },
   {
     "appid": 213610,
@@ -2435,6 +3240,11 @@
     "sort_as": "Shadowrun 2"
   },
   {
+    "appid": 39540,
+    "name": "SpellForce: The Order of Dawn",
+    "sort_as": "SpellForce 1"
+  },
+  {
     "appid": 39550,
     "name": "SpellForce 2: Shadow Wars",
     "sort_as": "SpellForce 2"
@@ -2465,9 +3275,14 @@
     "sort_as": "SpellForce X 1"
   },
   {
-    "appid": 39540,
-    "name": "SpellForce: The Order of Dawn",
-    "sort_as": "SpellForce 1"
+    "appid": 972660,
+    "name": "Spiritfarer",
+    "sort_as": "Spiritfarer"
+  },
+  {
+    "appid": 996580,
+    "name": "Spyro Reignited Trilogy",
+    "sort_as": "Spyro Reignited Trilogy"
   },
   {
     "appid": 4500,
@@ -2485,15 +3300,21 @@
     "sort_as": "S.T.A.L.K.E.R. 3"
   },
   {
+    "appid": 2238900,
+    "name": "Star Ocean: The Second Story R",
+    "sort_as": "Star Ocean 2 RE"
+  },
+  {
     "appid": 609150,
-    "name": "STAR OCEAN: THE LAST HOPE",
-    "sort_as": "STAR OCEAN 3"
+    "name": "Star Ocean: The Last Hope",
+    "sort_as": "Star Ocean 4"
   },
   {
     "appid": 1776380,
-    "name": "STAR OCEAN: THE DIVINE FORCE",
-    "sort_as": "STAR OCEAN 5"
+    "name": "Star Ocean: The Divine Force",
+    "sort_as": "Star Ocean 6"
   },
+  
   {
     "appid": 1058020,
     "name": "Star Wars: Battlefront",
@@ -2505,9 +3326,19 @@
     "sort_as": "Star Wars: Battlefront 2"
   },
   {
+    "appid": 1237950,
+    "name": "Star Wars Battlefront II (2017)",
+    "sort_as": "Star Wars Battlefront 2 (2017)"
+  },
+  {
     "appid": 1172380,
     "name": "Star Wars Jedi: Fallen Order",
     "sort_as": "Star Wars Jedi: Fallen Order"
+  },
+  {
+    "appid": 1774580,
+    "name": "Star Wars Jedi: Survivor",
+    "sort_as": "Star Wars Jedi: Fallen Order 2"
   },
   {
     "appid": 32470,
@@ -2560,9 +3391,29 @@
     "sort_as": "Star Wars: Squadrons"
   },
   {
+    "appid": 387860,
+    "name": "The Static Speaks My Name",
+    "sort_as": "The Static Speaks My Name"
+  },
+  {
     "appid": 572410,
     "name": "Steel Division: Normandy 44",
     "sort_as": "Steel Division 1"
+  },
+  {
+    "appid": 1351450,
+    "name": "Steel Fury: Kharkov 1942",
+    "sort_as": "Steel Fury: Kharkov 1942"
+  },
+  {
+    "appid": 1358700,
+    "name": "Stranger of Paradise: Final Fantasy Origin",
+    "sort_as": "Stranger of Paradise: Final Fantasy Origin"
+  },
+  {
+    "appid": 317040,
+    "name": "Strife",
+    "sort_as": "Strife"
   },
   {
     "appid": 40950,
@@ -2605,6 +3456,16 @@
     "sort_as": "Sudden Strike 1X"
   },
   {
+    "appid": 619780,
+    "name": "The Swords of Ditto",
+    "sort_as": "The Swords of Ditto"
+  },
+  {
+    "appid": 408400,
+    "name": "Swords and Sorcery: Underworld",
+    "sort_as": "Swords and Sorcery: Underworld"
+  },
+  {
     "appid": 1410640,
     "name": "Syberia: The World Before",
     "sort_as": "Syberia 3"
@@ -2620,9 +3481,19 @@
     "sort_as": "System Shock 1 RE 1"
   },
   {
-    "appid": 865610,
-    "name": "Backbone",
-    "sort_as": "Backbone"
+    "appid": 482400,
+    "name": "System Shock",
+    "sort_as": "System Shock 1 RE 2"
+  },
+  {
+    "appid": 1199030,
+    "name": "Tainted Grail: Conquest",
+    "sort_as": "Tainted Grail: Conquest"
+  },
+  {
+    "appid": 377530,
+    "name": "Tale of Wuxia",
+    "sort_as": "Tale of Wuxia"
   },
   {
     "appid": 372360,
@@ -2680,6 +3551,86 @@
     "sort_as": "Thief 3"
   },
   {
+    "appid": 1237970,
+    "name": "Titanfall 2",
+    "sort_as": "Titanfall 2"
+  },
+  {
+    "appid": 19830,
+    "name": "Tom Clancy's Rainbow Six 3",
+    "sort_as": "Tom Clancy's Rainbow Six 3"
+  },
+  {
+    "appid": 13560,
+    "name": "Tom Clancy's Splinter Cell",
+    "sort_as": "Tom Clancy's Splinter Cell 1"
+  },
+  {
+    "appid": 13570,
+    "name": "Tom Clancy's Splinter Cell: Chaos Theory",
+    "sort_as": "Tom Clancy's Splinter Cell 3"
+  },
+  {
+    "appid": 235600,
+    "name": "Tom Clancy's Splinter Cell: Blacklist",
+    "sort_as": "Tom Clancy's Splinter Cell 6"
+  },
+  {
+    "appid": 224960,
+    "name": "Tomb Raider I",
+    "sort_as": "Tomb Raider 01"
+  },
+  {
+    "appid": 225300,
+    "name": "Tomb Raider II",
+    "sort_as": "Tomb Raider 02"
+  },
+  {
+    "appid": 225320,
+    "name": "Tomb Raider III: Adventures of Lara Croft",
+    "sort_as": "Tomb Raider 03"
+  },
+  {
+    "appid": 224980,
+    "name": "Tomb Raider: The Last Revelation",
+    "sort_as": "Tomb Raider 04"
+  },
+  {
+    "appid": 7000,
+    "name": "Tomb Raider: Legend",
+    "sort_as": "Tomb Raider 07"
+  },
+  {
+    "appid": 8000,
+    "name": "Tomb Raider: Anniversary",
+    "sort_as": "Tomb Raider 08"
+  },
+  {
+    "appid": 8140,
+    "name": "Tomb Raider: Underworld",
+    "sort_as": "Tomb Raider 09"
+  },
+  {
+    "appid": 203160,
+    "name": "Tomb Raider",
+    "sort_as": "Tomb Raider 10"
+  },
+  {
+    "appid": 391220,
+    "name": "Rise of the Tomb Raider",
+    "sort_as": "Tomb Raider 11"
+  },
+  {
+    "appid": 750920,
+    "name": "Shadow of the Tomb Raider",
+    "sort_as": "Tomb Raider 12"
+  },
+  {
+    "appid": 500670,
+    "name": "Tormentor X Punisher",
+    "sort_as": "Tormentor X Punisher"
+  },
+  {
     "appid": 4700,
     "name": "Total War: MEDIEVAL II",
     "sort_as": "Total War: MEDIEVAL II"
@@ -2703,6 +3654,11 @@
     "appid": 398000,
     "name": "Twinsen's Little Big Adventure 2 Classic",
     "sort_as": "Twinsen's Little Big Adventure Classic 2"
+  },
+  {
+    "appid": 7520,
+    "name": "Two Worlds II",
+    "sort_as": "Two Worlds 2"
   },
   {
     "appid": 411970,
@@ -2735,6 +3691,11 @@
     "sort_as": "Uncharted: Legacy of Thieves Collection"
   },
   {
+    "appid": 942970,
+    "name": "Unheard: Voices of Crime",
+    "sort_as": "Unheard: Voices of Crime"
+  },
+  {
     "appid": 1149550,
     "name": "Utawarerumono: Mask of Deception",
     "sort_as": "Utawarerumono 2"
@@ -2748,6 +3709,16 @@
     "appid": 1151440,
     "name": "Utawarerumono: Mask of Truth",
     "sort_as": "Utawarerumono 3"
+  },
+  {
+    "appid": 909660,
+    "name": "Vagrus: The Riven Realms",
+    "sort_as": "Vagrus: The Riven Realms"
+  },
+  {
+    "appid": 260230,
+    "name": "Valiant Hearts: The Great War",
+    "sort_as": "Valiant Hearts: The Great War"
   },
   {
     "appid": 294860,
@@ -2768,6 +3739,16 @@
     "appid": 42980,
     "name": "Victoria: An Empire Under the Sun",
     "sort_as": "Victoria 1"
+  },
+  {
+    "appid": 1113570,
+    "name": "Voice of Cards: The Isle Dragon Roars",
+    "sort_as": "Voice of Cards 1"
+  },
+  {
+    "appid": 1748660,
+    "name": "Voice of Cards: The Forsaken Maiden",
+    "sort_as": "Voice of Cards 2"
   },
   {
     "appid": 207610,
@@ -2800,6 +3781,11 @@
     "sort_as": "The Walking Dead 5"
   },
   {
+    "appid": 301930,
+    "name": "War of the Human Tanks: Limited Operations",
+    "sort_as": "War of the Human Tanks: Limited Operations"
+  },
+  {
     "appid": 58610,
     "name": "Wargame: European Escalation",
     "sort_as": "Wargame: European Escalation 1"
@@ -2813,6 +3799,16 @@
     "appid": 251060,
     "name": "Wargame: Red Dragon",
     "sort_as": "Wargame: European Escalation 3"
+  },
+  {
+    "appid": 1022310,
+    "name": "Warhammer Underworlds: Online",
+    "sort_as": "Warhammer Underworlds: Online"
+  },
+  {
+    "appid": 552500,
+    "name": "Warhammer: Vermintide 2",
+    "sort_as": "Warhammer: End Times - Vermintide 2"
   },
   {
     "appid": 4570,
@@ -2855,6 +3851,11 @@
     "sort_as": "Warhammer 40,000: Dawn of War 3"
   },
   {
+    "appid": 394450,
+    "name": "Warhammer 40,000: Deathwatch",
+    "sort_as": "Warhammer 40,000: Deathwatch"
+  },
+  {
     "appid": 55150,
     "name": "Warhammer 40,000: Space Marine",
     "sort_as": "Warhammer 40,000: Space Marine"
@@ -2872,7 +3873,7 @@
   {
     "appid": 1026420,
     "name": "Warsaw",
-    "sort_as": "WARSAW"
+    "sort_as": "Warsaw"
   },
   {
     "appid": 259130,
@@ -2893,6 +3894,11 @@
     "appid": 1097350,
     "name": "Weird West",
     "sort_as": "Weird West"
+  },
+  {
+    "appid": 1938010,
+    "name": "Wild Hearts",
+    "sort_as": "Wild Hearts"
   },
   {
     "appid": 2518960,
@@ -2925,6 +3931,11 @@
     "sort_as": "Wolfenstein: The New Order 3"
   },
   {
+    "appid": 400630,
+    "name": "Wuppo",
+    "sort_as": "Wuppo"
+  },
+  {
     "appid": 7760,
     "name": "X-COM: UFO Defense",
     "sort_as": "X-COM 1"
@@ -2953,6 +3964,11 @@
     "appid": 882100,
     "name": "XCOM: Chimera Squad",
     "sort_as": "X-COM 6"
+  },
+  {
+    "appid": 546230,
+    "name": "Xenus II: White Gold",
+    "sort_as": "Xenus II: White Gold"
   },
   {
     "appid": 1170760,
@@ -3040,399 +4056,9 @@
     "sort_as": "Ys 09"
   },
   {
-    "appid": 377530,
-    "name": "Tale of Wuxia",
-    "sort_as": "Tale of Wuxia"
-  },
-  {
-    "appid": 1888160,
-    "name": "Armored Core VI: Fires of Rubicon",
-    "sort_as": "Armored Core VI: Fires of Rubicon"
-  },
-  {
-    "appid": 35140,
-    "name": "Batman: Arkham Asylum",
-    "sort_as": "Batman Arkham 1"
-  },
-  {
-    "appid": 200260,
-    "name": "Batman: Arkham City",
-    "sort_as": "Batman Arkham 2"
-  },
-  {
-    "appid": 209000,
-    "name": "Batman: Arkham Origins",
-    "sort_as": "Batman Arkham 3"
-  },
-  {
-    "appid": 208650,
-    "name": "Batman: Arkham Knight",
-    "sort_as": "Batman Arkham 4"
-  },
-  {
-    "appid": 1238840,
-    "name": "Battlefield 1",
-    "sort_as": "Battlefield 1"
-  },
-  {
-    "appid": 225080,
-    "name": "Brothers: A Tale of Two Sons",
-    "sort_as": "Brothers: A Tale of Two Sons"
-  },
-  {
-    "appid": 264240,
-    "name": "CONSORTIUM",
-    "sort_as": "CONSORTIUM"
-  },
-  {
-    "appid": 534290,
-    "name": "Cursed Castilla",
-    "sort_as": "Cursed Castilla"
-  },
-  {
-    "appid": 262060,
-    "name": "Darkest Dungeon",
-    "sort_as": "Darkest Dungeon"
-  },
-  {
-    "appid": 260730,
-    "name": "Desperados: Wanted Dead or Alive",
-    "sort_as": "Desperados 1"
-  },
-  {
-    "appid": 9710,
-    "name": "Desperados 2: Cooper’s Revenge",
-    "sort_as": "Desperados 2"
-  },
-  {
-    "appid": 610370,
-    "name": "Desperados III",
-    "sort_as": "Desperados 3"
-  },
-  {
-    "appid": 614570,
-    "name": "Dishonored: Death of the Outsider",
-    "sort_as": "Dishonored 3"
-  },
-  {
-    "appid": 252710,
-    "name": "The Last Express",
-    "sort_as": "The Last Express"
-  },
-  {
-    "appid": 814380,
-    "name": "Sekiro: Shadows Die Twice",
-    "sort_as": "Sekiro: Shadows Die Twice"
-  },
-  {
-    "appid": 250760,
-    "name": "Shovel Knight",
-    "sort_as": "Shovel Knight"
-  },
-  {
-    "appid": 1237970,
-    "name": "Titanfall 2",
-    "sort_as": "Titanfall 2"
-  },
-  {
-    "appid": 502500,
-    "name": "Ace Combat 7: Skies Unknown",
-    "sort_as": "Ace Combat 7: Skies Unknown"
-  },
-  {
-    "appid": 907820,
-    "name": "Aeon of Sands: The Trail",
-    "sort_as": "Aeon of Sands: The Trail"
-  },
-  {
-    "appid": 1466860,
-    "name": "Age of Empires IV",
-    "sort_as": "Age of Empires IV"
-  },
-  {
-    "appid": 115220,
-    "name": "American Conquest: Fight Back",
-    "sort_as": "American Conquest: Fight Back"
-  },
-  {
-    "appid": 1281630,
-    "name": "Anno 1404",
-    "sort_as": "Anno 1404"
-  },
-  {
-    "appid": 24960,
-    "name": "Battlefield: Bad Company 2",
-    "sort_as": "Battlefield: Bad Company 2"
-  },
-  {
-    "appid": 310890,
-    "name": "Breach & Clear: Deadline Rebirth",
-    "sort_as": "Breach & Clear: Deadline Rebirth"
-  },
-  {
-    "appid": 12200,
-    "name": "Bully",
-    "sort_as": "Bully"
-  },
-  {
-    "appid": 400750,
-    "name": "Call to Arms: Gates of Hell - Ostfront",
-    "sort_as": "Call to Arms: Gates of Hell - Ostfront"
-  },
-  {
-    "appid": 41740,
-    "name": "Cargo! The Quest for Gravity",
-    "sort_as": "Cargo! The Quest for Gravity"
-  },
-  {
-    "appid": 1016800,
-    "name": "Chernobylite",
-    "sort_as": "Chernobylite"
-  },
-  {
-    "appid": 297750,
-    "name": "Close Combat: Gateway to Caen",
-    "sort_as": "Close Combat: Gateway to Caen"
-  },
-  {
-    "appid": 368220,
-    "name": "Close Combat: Panthers in the Fog",
-    "sort_as": "Close Combat: Panthers in the Fog"
-  },
-  {
-    "appid": 310490,
-    "name": "Crookz: The Big Heist",
-    "sort_as": "Crookz: The Big Heist"
-  },
-  {
-    "appid": 612390,
-    "name": "Dandara",
-    "sort_as": "Dandara"
-  },
-  {
-    "appid": 356650,
-    "name": "Death's Gambit",
-    "sort_as": "Death's Gambit"
-  },
-  {
-    "appid": 33770,
-    "name": "Drakensang: The River of Time",
-    "sort_as": "Drakensang: The River of Time"
-  },
-  {
-    "appid": 12640,
-    "name": "Drakensang: The Dark Eye",
-    "sort_as": "Drakensang: The Dark Eye"
-  },
-  {
-    "appid": 396750,
-    "name": "EVERSPACE",
-    "sort_as": "EVERSPACE"
-  },
-  {
-    "appid": 704270,
-    "name": "Generation Zero",
-    "sort_as": "Generation Zero"
-  },
-  {
-    "appid": 1038810,
-    "name": "GOD WARS: The Complete Legend",
-    "sort_as": "GOD WARS: The Complete Legend"
-  },
-  {
-    "appid": 254820,
-    "name": "Ground Control",
-    "sort_as": "Ground Control"
-  },
-  {
-    "appid": 1251850,
-    "name": "Inferno: Beyond the 7th Circle",
-    "sort_as": "Inferno: Beyond the 7th Circle"
-  },
-  {
-    "appid": 24400,
-    "name": "King Arthur: The Role-playing Wargame",
-    "sort_as": "King Arthur 1"
-  },
-  {
-    "appid": 24480,
-    "name": "King Arthur II: The Role-playing Wargame",
-    "sort_as": "King Arthur 2"
-  },
-  {
-    "appid": 102500,
-    "name": "Kingdoms of Amalur: Reckoning",
-    "sort_as": "Kingdoms of Amalur: Reckoning"
-  },
-  {
-    "appid": 1663640,
-    "name": "The Last Oricru",
-    "sort_as": "The Last Oricru"
-  },
-  {
-    "appid": 267670,
-    "name": "Realms of Arkania: Blade of Destiny",
-    "sort_as": "Realms of Arkania 1"
-  },
-  {
-    "appid": 270750,
-    "name": "Realms of Arkania: Star Trail",
-    "sort_as": "Realms of Arkania 2"
-  },
-  {
-    "appid": 270760,
-    "name": "Realms of Arkania: Shadows over Riva",
-    "sort_as": "Realms of Arkania 3"
-  },
-  {
-    "appid": 204630,
-    "name": "Retro City Rampage DX",
-    "sort_as": "Retro City Rampage DX"
-  },
-  {
-    "appid": 40390,
-    "name": "Risen 2: Dark Waters",
-    "sort_as": "Risen 2: Dark Waters"
-  },
-  {
-    "appid": 249230,
-    "name": "Risen 3: Titan Lords",
-    "sort_as": "Risen 3: Titan Lords"
-  },
-  {
-    "appid": 434460,
-    "name": "Rock of Ages 2: Bigger & Boulder",
-    "sort_as": "Rock of Ages 2: Bigger & Boulder"
-  },
-  {
-    "appid": 686720,
-    "name": "SaGa SCARLET GRACE: AMBITIONS",
-    "sort_as": "SaGa SCARLET GRACE: AMBITIONS"
-  },
-  {
-    "appid": 259530,
-    "name": "Savant: Ascent",
-    "sort_as": "Savant: Ascent"
-  },
-  {
-    "appid": 2279330,
-    "name": "Savant: Ascent REMIX",
-    "sort_as": "Savant: Ascent REMIX"
-  },
-  {
-    "appid": 238070,
-    "name": "Shadow Warrior Classic",
-    "sort_as": "Shadow Warrior Classic"
-  },
-  {
-    "appid": 1558990,
-    "name": "Siege of Avalon",
-    "sort_as": "Siege of Avalon"
-  },
-  {
-    "appid": 307690,
-    "name": "Sleeping Dogs",
-    "sort_as": "Sleeping Dogs"
-  },
-  {
-    "appid": 972660,
-    "name": "Spiritfarer",
-    "sort_as": "Spiritfarer"
-  },
-  {
-    "appid": 996580,
-    "name": "Spyro Reignited Trilogy",
-    "sort_as": "Spyro Reignited Trilogy"
-  },
-  {
-    "appid": 387860,
-    "name": "The Static Speaks My Name",
-    "sort_as": "The Static Speaks My Name"
-  },
-  {
-    "appid": 1351450,
-    "name": "Steel Fury: Kharkov 1942",
-    "sort_as": "Steel Fury: Kharkov 1942"
-  },
-  {
-    "appid": 1358700,
-    "name": "STRANGER OF PARADISE: FINAL FANTASY ORIGIN",
-    "sort_as": "STRANGER OF PARADISE: FINAL FANTASY ORIGIN"
-  },
-  {
-    "appid": 317040,
-    "name": "Strife",
-    "sort_as": "Strife"
-  },
-  {
-    "appid": 408400,
-    "name": "Swords and Sorcery: Underworld",
-    "sort_as": "Swords and Sorcery: Underworld"
-  },
-  {
-    "appid": 518790,
-    "name": "theHunter: Call of the Wild",
-    "sort_as": "theHunter: Call of the Wild"
-  },
-  {
-    "appid": 19830,
-    "name": "Tom Clancy's Rainbow Six 3",
-    "sort_as": "Tom Clancy's Rainbow Six 3"
-  },
-  {
-    "appid": 13560,
-    "name": "Tom Clancy's Splinter Cell",
-    "sort_as": "Tom Clancy's Splinter Cell 1"
-  },
-  {
-    "appid": 235600,
-    "name": "Tom Clancy's Splinter Cell: Blacklist",
-    "sort_as": "Tom Clancy's Splinter Cell 6"
-  },
-  {
-    "appid": 13570,
-    "name": "Tom Clancy's Splinter Cell: Chaos Theory",
-    "sort_as": "Tom Clancy's Splinter Cell 3"
-  },
-  {
-    "appid": 500670,
-    "name": "Tormentor X Punisher",
-    "sort_as": "Tormentor X Punisher"
-  },
-  {
-    "appid": 7520,
-    "name": "Two Worlds II",
-    "sort_as": "Two Worlds II"
-  },
-  {
-    "appid": 942970,
-    "name": "Unheard: Voices of Crime",
-    "sort_as": "Unheard: Voices of Crime"
-  },
-  {
-    "appid": 260230,
-    "name": "Valiant Hearts: The Great War",
-    "sort_as": "Valiant Hearts: The Great War"
-  },
-  {
-    "appid": 301930,
-    "name": "War of the Human Tanks: Limited Operations",
-    "sort_as": "War of the Human Tanks: Limited Operations"
-  },
-  {
-    "appid": 400630,
-    "name": "Wuppo",
-    "sort_as": "Wuppo"
-  },
-  {
-    "appid": 546230,
-    "name": "Xenus II: White Gold",
-    "sort_as": "Xenus II: White Gold"
-  },
-  {
-    "appid": 547930,
-    "name": "The Precursors",
-    "sort_as": "The Precursors"
+    "appid": 566050,
+    "name": "Zeus: Master of Olympus",
+    "sort_as": "Zeus: Master of Olympus"
   },
   {
     "appid": 61600,
@@ -3441,622 +4067,7 @@
   },
   {
     "appid": 650510,
-    "name": "ZONE OF THE ENDERS: The 2nd Runner - M∀RS ",
-    "sort_as": "ZONE OF THE ENDERS: The 2nd Runner - M∀RS "
-  },
-  {
-    "appid": 517790,
-    "name": "Caesar III",
-    "sort_as": "Caesar 3"
-  },
-  {
-    "appid": 204940,
-    "name": "Crusader Kings",
-    "sort_as": "Crusader Kings"
-  },
-  {
-    "appid": 248510,
-    "name": "Dominions 3: The Awakening",
-    "sort_as": "Dominions 3: The Awakening"
-  },
-  {
-    "appid": 259060,
-    "name": "Dominions 4: Thrones of Ascension",
-    "sort_as": "Dominions 4: Thrones of Ascension"
-  },
-  {
-    "appid": 722060,
-    "name": "Dominions 5: Warriors of the Faith",
-    "sort_as": "Dominions 5: Warriors of the Faith"
-  },
-  {
-    "appid": 235660,
-    "name": "Eador: Genesis",
-    "sort_as": "Eador: Genesis"
-  },
-  {
-    "appid": 477730,
-    "name": "Eador: Imperium",
-    "sort_as": "Eador: Imperium"
-  },
-  {
-    "appid": 383120,
-    "name": "Empyrion: Galactic Survival",
-    "sort_as": "Empyrion: Galactic Survival"
-  },
-  {
-    "appid": 2109370,
-    "name": "The Great War: Western Front",
-    "sort_as": "The Great War: Western Front"
-  },
-  {
-    "appid": 3910,
-    "name": "Sid Meier's Civilization III",
-    "sort_as": "Sid Meier's Civilization III"
-  },
-  {
-    "appid": 24780,
-    "name": "SimCity 4",
-    "sort_as": "SimCity 4"
-  },
-  {
-    "appid": 566050,
-    "name": "Zeus: Master of Olympus",
-    "sort_as": "Zeus: Master of Olympus"
-  },
-  {
-    "appid": 440650,
-    "name": "Niche: A Genetics Survival Game",
-    "sort_as": "Niche: A Genetics Survival Game"
-  },
-  {
-    "appid": 325160,
-    "name": "Bik: A Space Adventure",
-    "sort_as": "Bik: A Space Adventure"
-  },
-  {
-    "appid": 909660,
-    "name": "Vagrus: The Riven Realms",
-    "sort_as": "Vagrus: The Riven Realms"
-  },
-  {
-    "appid": 388410,
-    "name": "Darksiders II: Deathinitive Edition",
-    "sort_as": "Darksiders 2 RE"
-  },
-  {
-    "appid": 606280,
-    "name": "Darksiders III",
-    "sort_as": "Darksiders 3"
-  },
-  {
-    "appid": 410320,
-    "name": "EARTH DEFENSE FORCE 4.1: The Shadow of New Despair",
-    "sort_as": "EARTH DEFENSE FORCE 4.1: The Shadow of New Despair"
-  },
-  {
-    "appid": 1732190,
-    "name": "Fatal Frame: Maiden of Black Water",
-    "sort_as": "Fatal Frame: Maiden of Black Water"
-  },
-  {
-    "appid": 650670,
-    "name": "Grimoire: Heralds of the Winged Exemplar",
-    "sort_as": "Grimoire: Heralds of the Winged Exemplar"
-  },
-  {
-    "appid": 297000,
-    "name": "Heroes of Might & Magic III HD Edition",
-    "sort_as": "Heroes of Might & Magic 3 HD Edition"
-  },
-  {
-    "appid": 289360,
-    "name": "Konung 2: Blood of Titans",
-    "sort_as": "Konung 2"
-  },
-  {
-    "appid": 489140,
-    "name": "Mr. Shifty",
-    "sort_as": "Mr. Shifty"
-  },
-  {
-    "appid": 244710,
-    "name": "Shelter",
-    "sort_as": "Shelter 1"
-  },
-  {
-    "appid": 39520,
-    "name": "Europa 1400: The Guild",
-    "sort_as": "The Guild 1"
-  },
-  {
-    "appid": 39650,
-    "name": "The Guild II",
-    "sort_as": "The Guild 2"
-  },
-  {
-    "appid": 39680,
-    "name": "The Guild II: Renaissance",
-    "sort_as": "The Guild 2X"
-  },
-  {
-    "appid": 1199030,
-    "name": "Tainted Grail: Conquest",
-    "sort_as": "Tainted Grail: Conquest"
-  },
-  {
-    "appid": 368230,
-    "name": "Kingdom",
-    "sort_as": "Kingdom 1"
-  },
-  {
-    "appid": 496300,
-    "name": "Kingdom: New Lands",
-    "sort_as": "Kingdom 2"
-  },
-  {
-    "appid": 701160,
-    "name": "Kingdom: Two Crowns",
-    "sort_as": "Kingdom 3"
-  },
-  {
-    "appid": 870780,
-    "name": "Control",
-    "sort_as": "Control"
-  },
-  {
-    "appid": 1717640,
-    "name": "Mahokenshi",
-    "sort_as": "Mahokenshi"
-  },
-  {
-    "appid": 2106840,
-    "name": "Paranormasight: The Seven Mysteries of Honjo",
-    "sort_as": "Paranormasight: The Seven Mysteries of Honjo"
-  },
-  {
-    "appid": 2021210,
-    "name": "Dragon Quest Treasures",
-    "sort_as": "Dragon Quest X Treasures"
-  },
-  {
-    "appid": 1949030,
-    "name": "Sherlock Holmes: The Awakened (2023)",
-    "sort_as": "Sherlock Holmes 8"
-  },
-  {
-    "appid": 1938010,
-    "name": "Wild Hearts",
-    "sort_as": "Wild Hearts"
-  },
-  {
-    "appid": 1113570,
-    "name": "Voice of Cards: The Isle Dragon Roars",
-    "sort_as": "Voice of Cards 1"
-  },
-  {
-    "appid": 1748660,
-    "name": "Voice of Cards: The Forsaken Maiden",
-    "sort_as": "Voice of Cards 2"
-  },
-  {
-    "appid": 1440440,
-    "name": "Sam & Max Save the World",
-    "sort_as": "Sam & Max S01"
-  },
-  {
-    "appid": 1747050,
-    "name": "Sam & Max: Beyond Time and Space",
-    "sort_as": "Sam & Max S02"
-  },
-  {
-    "appid": 1693980,
-    "name": "Dead Space (2023)",
-    "sort_as": "Dead Space 1 RE"
-  },
-  {
-    "appid": 1668530,
-    "name": "The Legend of Nayuta: Boundless Trails",
-    "sort_as": "The Legend of Heroes: Trails X"
-  },
-  {
-    "appid": 736220,
-    "name": "Post Scriptum",
-    "sort_as": "Post Scriptum"
-  },
-  {
-    "appid": 1451080,
-    "name": "Dungeon Encounters",
-    "sort_as": "Dungeon Encounters"
-  },
-  {
-    "appid": 814000,
-    "name": "One Piece Odyssey",
-    "sort_as": "One Piece Odyssey"
-  },
-  {
-    "appid": 1608070,
-    "name": "Crisis Core: Final Fantasy VII Reunion",
-    "sort_as": "Crisis Core: Final Fantasy VII Reunion"
-  },
-  {
-    "appid": 115320,
-    "name": "Prototype 2",
-    "sort_as": "Prototype 2"
-  },
-  {
-    "appid": 278080,
-    "name": "Dynasty Warriors 8: Xtreme Legends",
-    "sort_as": "Dynasty Warriors 8: Xtreme Legends"
-  },
-  {
-    "appid": 1462570,
-    "name": "Lost in Random",
-    "sort_as": "Lost in Random"
-  },
-  {
-    "appid": 601050,
-    "name": "Attack on Titan 2",
-    "sort_as": "Attack on Titan 2"
-  },
-  {
-    "appid": 2131680,
-    "name": "Metal Gear & Metal Gear 2: Solid Snake",
-    "sort_as": "Metal Gear 1 + 2"
-  },
-  {
-    "appid": 235460,
-    "name": "Metal Gear Rising: Revengeance",
-    "sort_as": "Metal Gear Solid X 2"
-  },
-  {
-    "appid": 2131630,
-    "name": "Metal Gear Solid",
-    "sort_as": "Metal Gear Solid 1"
-  },
-  {
-    "appid": 2131640,
-    "name": "Metal Gear Solid 2: Sons of Liberty ",
-    "sort_as": "Metal Gear Solid 2"
-  },
-  {
-    "appid": 2131650,
-    "name": "Metal Gear Solid 3: Snake Eater",
-    "sort_as": "Metal Gear Solid 3"
-  },
-  {
-    "appid": 311340,
-    "name": "Metal Gear Solid V: Ground Zeroes",
-    "sort_as": "Metal Gear Solid 5 1"
-  },
-  {
-    "appid": 287700,
-    "name": "Metal Gear Solid V: The Phantom Pain",
-    "sort_as": "Metal Gear Solid 5 2"
-  },
-  {
-    "appid": 2306740,
-    "name": "Metal Gear Solid: Master Collection Vol.1 Bonus Content",
-    "sort_as": "Metal Gear Solid X 1"
-  },
-  {
-    "appid": 2511500,
-    "name": "Dominions 6: Rise of the Pantokrator",
-    "sort_as": "Dominions 6: Rise of the Pantokrator"
-  },
-  {
-    "appid": 534380,
-    "name": "Dying Light 2: Stay Human",
-    "sort_as": "Dying Light 2: Stay Human"
-  },
-  {
-    "appid": 1502380,
-    "name": "Combat Mission: Black Sea",
-    "sort_as": "Combat Mission: Black Sea"
-  },
-  {
-    "appid": 2229830,
-    "name": "Command & Conquer",
-    "sort_as": "Command & Conquer"
-  },
-  {
-    "appid": 47700,
-    "name": "Command & Conquer 4: Tiberian Twilight",
-    "sort_as": "Command & Conquer 4: Tiberian Twilight"
-  },
-  {
-    "appid": 2229870,
-    "name": "Command & Conquer: Generals",
-    "sort_as": "Command & Conquer: Generals"
-  },
-  {
-    "appid": 2732960,
-    "name": "Command & Conquer: Generals - Zero Hour",
-    "sort_as": "Command & Conquer: Generals - Zero Hour"
-  },
-  {
-    "appid": 2229850,
-    "name": "Command & Conquer: Red Alert 2",
-    "sort_as": "Command & Conquer: Red Alert 2"
-  },
-  {
-    "appid": 2229840,
-    "name": "Command & Conquer: Red Alert",
-    "sort_as": "Command & Conquer: Red Alert 1"
-  },
-  {
-    "appid": 2229880,
-    "name": "Command & Conquer: Tiberian Sun",
-    "sort_as": "Command & Conquer 2"
-  },
-  {
-    "appid": 2229890,
-    "name": "Command & Conquer: Renegade",
-    "sort_as": "Command & Conquer: Renegade"
-  },
-  {
-    "appid": 24880,
-    "name": "The Saboteur",
-    "sort_as": "The Saboteur"
-  },
-  {
-    "appid": 1996630,
-    "name": "Dungeon Keeper",
-    "sort_as": "Dungeon Keeper 1"
-  },
-  {
-    "appid": 2616460,
-    "name": "Dungeon Keeper 2",
-    "sort_as": "Dungeon Keeper 2"
-  },
-  {
-    "appid": 2616430,
-    "name": "Populous: The Beginning",
-    "sort_as": "Populous: The Beginning"
-  },
-  {
-    "appid": 2741560,
-    "name": "SimCity 3000",
-    "sort_as": "SimCity 3"
-  },
-  {
-    "appid": 2204130,
-    "name": "Sid Meier's Alpha Centauri",
-    "sort_as": "Sid Meier's Alpha Centauri"
-  },
-  {
-    "appid": 1269710,
-    "name": "Kainga: Seeds of Civilization",
-    "sort_as": "Kainga: Seeds of Civilization"
-  },
-  {
-    "appid": 1774580,
-    "name": "Star Wars Jedi: Survivor",
-    "sort_as": "Star Wars Jedi: Fallen Order 2"
-  },
-  {
-    "appid": 700600,
-    "name": "Evil Genius 2: World Domination",
-    "sort_as": "Evil Genius 2"
-  },
-  {
-    "appid": 1237950,
-    "name": "Star Wars Battlefront II (2017)",
-    "sort_as": "Star Wars Battlefront 2 (2017)"
-  },
-  {
-    "appid": 2436570,
-    "name": "Dragon Quest Builders",
-    "sort_as": "Dragon Quest X Builders 1"
-  },
-  {
-    "appid": 559640,
-    "name": "Betrayal at Krondor",
-    "sort_as": "Betrayal at Krondor"
-  },
-  {
-    "appid": 2398450,
-    "name": "Marathon",
-    "sort_as": "Marathon 1"
-  },
-  {
-    "appid": 299030,
-    "name": "Blood",
-    "sort_as": "Blood 1"
-  },
-  {
-    "appid": 1010750,
-    "name": "Blood: Fresh Supply",
-    "sort_as": "Blood 1R"
-  },
-  {
-    "appid": 1013140,
-    "name": "Outcast: A New Beginning",
-    "sort_as": "Outcast 2"
-  },
-  {
-    "appid": 2280,
-    "name": "DOOM (1993)",
-    "sort_as": "DOOM 1"
-  },
-  {
-    "appid": 2398520,
-    "name": "Marathon Infinity",
-    "sort_as": "Marathon 3"
-  },
-  {
-    "appid": 2398490,
-    "name": "Marathon 2: Durandal",
-    "sort_as": "Marathon 2"
-  },
-  {
-    "appid": 2480560,
-    "name": "Geneforge 2: Infestation",
-    "sort_as": "Geneforge 2: Infestation"
-  },
-  {
-    "appid": 2000800,
-    "name": "B-17 Flying Fortress: The Mighty 8th Redux",
-    "sort_as": "B-17 Flying Fortress: The Mighty 8th Redux"
-  },
-  {
-    "appid": 394450,
-    "name": "Warhammer 40,000: Deathwatch",
-    "sort_as": "Warhammer 40,000: Deathwatch"
-  },
-  {
-    "appid": 1022310,
-    "name": "Warhammer Underworlds: Online",
-    "sort_as": "Warhammer Underworlds: Online"
-  },
-  {
-    "appid": 552500,
-    "name": "Warhammer: Vermintide 2",
-    "sort_as": "Warhammer: End Times - Vermintide 2"
-  },
-  {
-    "appid": 367500,
-    "name": "Dragon's Dogma: Dark Arisen",
-    "sort_as": "Dragon's Dogma 1"
-  },
-  {
-    "appid": 2820110,
-    "name": "Anno 1503",
-    "sort_as": "Anno 1503"
-  },
-  {
-    "appid": 2820130,
-    "name": "Anno 1602",
-    "sort_as": "Anno 1602"
-  },
-  {
-    "appid": 2820140,
-    "name": "Anno 1701",
-    "sort_as": "Anno 1701"
-  },
-  {
-    "appid": 250260,
-    "name": "Jazzpunk",
-    "sort_as": "Jazzpunk"
-  },
-  {
-    "appid": 619780,
-    "name": "The Swords of Ditto",
-    "sort_as": "The Swords of Ditto"
-  },
-  {
-    "appid": 247660,
-    "name": "Deadly Premonition: The Director's Cut",
-    "sort_as": "Deadly Premonition 1"
-  },
-  {
-    "appid": 1271100,
-    "name": "Deadly Premonition 2: A Blessing in Disguise",
-    "sort_as": "Deadly Premonition 2"
-  },
-  {
-    "appid": 574050,
-    "name": "Dragon Quest Heroes II",
-    "sort_as": "Dragon Quest X Heroes 2"
-  },
-  {
-    "appid": 287290,
-    "name": "Resident Evil Revelations 2",
-    "sort_as": "Resident Evil X 1 Revelations 2"
-  },
-  {
-    "appid": 2541170,
-    "name": "Persona: Anomalous Tower Chronicle",
-    "sort_as": "Persona 1 MOB"
-  },
-  {
-    "appid": 1714580,
-    "name": "Moon: Remix RPG Adventure",
-    "sort_as": "Moon: Remix RPG Adventure"
-  },
-  {
-    "appid": 1238810,
-    "name": "Battlefield V",
-    "sort_as": "Battlefield 5"
-  },
-  {
-    "appid": 290100,
-    "name": "Bulwark: Falconeer Chronicles",
-    "sort_as": "Bulwark: Falconeer Chronicles"
-  },
-  {
-    "appid": 343820,
-    "name": "Deja Vu: MacVenture Series",
-    "sort_as": "Deja Vu 1"
-  },
-  {
-    "appid": 343830,
-    "name": "Deja Vu II: MacVenture Series",
-    "sort_as": "Deja Vu 2"
-  },
-  {
-    "appid": 1316230,
-    "name": "Force of Nature 2: Ghost Keeper",
-    "sort_as": "Force of Nature 2"
-  },
-  {
-    "appid": 224940,
-    "name": "Legacy of Kain: Soul Reaver 2",
-    "sort_as": "Legacy of Kain: Soul Reaver 2"
-  },
-  {
-    "appid": 873890,
-    "name": "Legends of Amberland: The Forgotten Crown",
-    "sort_as": "Legends of Amberland 1"
-  },
-  {
-    "appid": 556740,
-    "name": "Legrand Legacy: Tale of the Fatebounds",
-    "sort_as": "Legrand Legacy"
-  },
-  {
-    "appid": 2933130,
-    "name": "The Lord of the Rings: Return to Moria",
-    "sort_as": "The Lord of the Rings: Return to Moria"
-  },
-  {
-    "appid": 1146370,
-    "name": "Master of Magic (1994)",
-    "sort_as": "Master of Magic 1"
-  },
-  {
-    "appid": 1623070,
-    "name": "Master of Magic",
-    "sort_as": "Master of Magic 2"
-  },
-  {
-    "appid": 1580970,
-    "name": "Samorost",
-    "sort_as": "Samorost 1"
-  },
-  {
-    "appid": 482400,
-    "name": "System Shock",
-    "sort_as": "System Shock 1 RE 2"
-  },
-  {
-    "appid": 1265220,
-    "name": "Cauldrons of War: Barbarossa",
-    "sort_as": "Cauldrons of War: Barbarossa"
-  },
-  {
-    "appid": 1497230,
-    "name": "Cauldrons of War: Stalingrad",
-    "sort_as": "Cauldrons of War: Stalingrad"
-  },
-  {
-    "appid": 613830,
-    "name": "Chrono Trigger",
-    "sort_as": "Chrono Trigger"
-  },
-  {
-    "appid": 1585180,
-    "name": "Drova: Forsaken Kin",
-    "sort_as": "Drova: Forsaken Kin"
+    "name": "Zone of the Enders: The 2nd Runner - M∀RS",
+    "sort_as": "Zone of the Enders: The 2nd Runner - M∀RS"
   }
 ]
