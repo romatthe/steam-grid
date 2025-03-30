@@ -1030,19 +1030,19 @@
     "sort_as": "Devil May Cry 1-2-3"
   },
   {
+    "appid": 405900,
+    "name": "Disgaea: Hour of Darkness",
+    "sort_as": "Disgaea 1"
+  },
+  {
     "appid": 495280,
-    "name": "Disgaea 2 PC",
+    "name": "Disgaea 2: Cursed Memories",
     "sort_as": "Disgaea 2"
   },
   {
     "appid": 803600,
-    "name": "Disgaea 5 Complete",
+    "name": "Disgaea 5: Alliance of Vengeance",
     "sort_as": "Disgaea 5"
-  },
-  {
-    "appid": 405900,
-    "name": "Disgaea PC",
-    "sort_as": "Disgaea 1"
   },
   {
     "appid": 614570,
