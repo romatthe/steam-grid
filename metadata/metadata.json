@@ -140,6 +140,11 @@
     "sort_as": "Anomaly Warzone Earth 3"
   },
   {
+    "appid": 500810,
+    "name": "Arcanum: Of Steamworks and Magick Obscura",
+    "sort_as": "Arcanum"
+  },
+  {
     "appid": 33930,
     "name": "Arma 2: Operation Arrowhead",
     "sort_as": "Arma 2X"
