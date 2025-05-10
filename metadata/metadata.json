@@ -3576,11 +3576,6 @@
     "sort_as": "Thea 2"
   },
   {
-    "appid": 239160,
-    "name": "Thief",
-    "sort_as": "Thief 4"
-  },
-  {
     "appid": 211600,
     "name": "Thief: The Dark Project",
     "sort_as": "Thief 1"
@@ -3594,6 +3589,11 @@
     "appid": 6980,
     "name": "Thief: Deadly Shadows",
     "sort_as": "Thief 3"
+  },
+  {
+    "appid": 239160,
+    "name": "Thief",
+    "sort_as": "Thief 4"
   },
   {
     "appid": 1237970,
@@ -3677,8 +3677,8 @@
   },
   {
     "appid": 4700,
-    "name": "Total War: MEDIEVAL II",
-    "sort_as": "Total War: MEDIEVAL II"
+    "name": "Medieval II: Total War",
+    "sort_as": "Medieval II: Total War"
   },
   {
     "appid": 23490,
@@ -3711,14 +3711,14 @@
     "sort_as": "Two Worlds 2"
   },
   {
-    "appid": 411970,
-    "name": "Ty the Tasmanian Tiger 2: Bush Rescue",
-    "sort_as": "Ty the Tasmanian Tiger 2"
-  },
-  {
     "appid": 411960,
     "name": "Ty the Tasmanian Tiger",
     "sort_as": "Ty the Tasmanian Tiger 1"
+  },
+  {
+    "appid": 411970,
+    "name": "Ty the Tasmanian Tiger 2: Bush Rescue",
+    "sort_as": "Ty the Tasmanian Tiger 2"
   },
   {
     "appid": 411980,
@@ -3726,14 +3726,14 @@
     "sort_as": "Ty the Tasmanian Tiger 3"
   },
   {
-    "appid": 502520,
-    "name": "Ultimate General: Civil War",
-    "sort_as": "Ultimate General: Gettysburg 2"
-  },
-  {
     "appid": 306660,
     "name": "Ultimate General: Gettysburg",
     "sort_as": "Ultimate General: Gettysburg 1"
+  },
+  {
+    "appid": 502520,
+    "name": "Ultimate General: Civil War",
+    "sort_as": "Ultimate General: Gettysburg 2"
   },
   {
     "appid": 1659420,
@@ -3746,14 +3746,14 @@
     "sort_as": "Unheard: Voices of Crime"
   },
   {
-    "appid": 1149550,
-    "name": "Utawarerumono: Mask of Deception",
-    "sort_as": "Utawarerumono 2"
-  },
-  {
     "appid": 1151450,
     "name": "Utawarerumono: Prelude to the Fallen",
     "sort_as": "Utawarerumono 1"
+  },
+  {
+    "appid": 1149550,
+    "name": "Utawarerumono: Mask of Deception",
+    "sort_as": "Utawarerumono 2"
   },
   {
     "appid": 1151440,
