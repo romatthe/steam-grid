@@ -2265,9 +2265,14 @@
     "sort_as": "Lunacid: Tears of the Moon"
   },
   {
-    "appid": 746460,
-    "name": "Mafia (2002)",
-    "sort_as": "Mafia (2002)"
+    "appid": 40990,
+    "name": "Mafia",
+    "sort_as": "Mafia 1"
+  },
+  {
+    "appid": 1030840,
+    "name": "Mafia: Definitive Edition",
+    "sort_as": "Mafia 1 RE"
   },
   {
     "appid": 50130,
@@ -2283,16 +2288,6 @@
     "appid": 360430,
     "name": "Mafia III",
     "sort_as": "Mafia 3"
-  },
-  {
-    "appid": 1030840,
-    "name": "Mafia: Definitive Edition",
-    "sort_as": "Mafia 1 RE"
-  },
-  {
-    "appid": 40990,
-    "name": "Mafia",
-    "sort_as": "Mafia 1"
   },
   {
     "appid": 25990,
