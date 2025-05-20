@@ -1555,6 +1555,21 @@
     "sort_as": "Force of Nature 2"
   },
   {
+    "appid": 1882240,
+    "name": "Forgotten Realms: The Archives - Collection One",
+    "sort_as": "Forgotten Realms: The Archives 1"
+  },
+  {
+    "appid": 1882280,
+    "name": "Forgotten Realms: The Archives - Collection Two",
+    "sort_as": "Forgotten Realms: The Archives 2"
+  },
+  {
+    "appid": 1904530,
+    "name": "Forgotten Realms: The Archives - Collection Three",
+    "sort_as": "Forgotten Realms: The Archives 3"
+  },
+  {
     "appid": 983870,
     "name": "Foundry",
     "sort_as": "Foundry"
