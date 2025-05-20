@@ -3360,14 +3360,29 @@
     "sort_as": "S.T.A.L.K.E.R. 1"
   },
   {
+    "appid": 2427410,
+    "name": "S.T.A.L.K.E.R.: Shadow of Chornobyl - Enhanced Edition",
+    "sort_as": "S.T.A.L.K.E.R. 1 RE"
+  },
+  {
     "appid": 20510,
     "name": "S.T.A.L.K.E.R.: Clear Sky",
     "sort_as": "S.T.A.L.K.E.R. 2"
   },
   {
+    "appid": 2427420,
+    "name": "S.T.A.L.K.E.R.: Clear Sky - Enhanced Edition",
+    "sort_as": "S.T.A.L.K.E.R. 2 RE"
+  },
+  {
     "appid": 41700,
     "name": "S.T.A.L.K.E.R.: Call of Pripyat",
     "sort_as": "S.T.A.L.K.E.R. 3"
+  },
+  {
+    "appid": 2427430,
+    "name": "S.T.A.L.K.E.R.: Call of Prypiat - Enhanced Edition",
+    "sort_as": "S.T.A.L.K.E.R. 3 RE"
   },
   {
     "appid": 2238900,
