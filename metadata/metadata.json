@@ -17,7 +17,7 @@
   {
     "appid": 1466860,
     "name": "Age of Empires IV",
-    "sort_as": "Age of Empires IV"
+    "sort_as": "Age of Empires 4"
   },
   {
     "appid": 351480,
@@ -30,14 +30,14 @@
     "sort_as": "Age of Fear 1X"
   },
   {
-    "appid": 882410,
-    "name": "Age of Fear: The Free World",
-    "sort_as": "Age of Fear X"
-  },
-  {
     "appid": 341150,
     "name": "Age of Fear 2: The Chaos Lord Gold",
     "sort_as": "Age of Fear 2X"
+  },
+  {
+    "appid": 882410,
+    "name": "Age of Fear: The Free World",
+    "sort_as": "Age of Fear X"
   },
   {
     "appid": 61500,
@@ -50,6 +50,11 @@
     "sort_as": "Age of Wonders 2"
   },
   {
+    "appid": 61520,
+    "name": "Age of Wonders: Shadow Magic",
+    "sort_as": "Age of Wonders 2X"
+  },
+  {
     "appid": 226840,
     "name": "Age of Wonders III",
     "sort_as": "Age of Wonders 3"
@@ -58,11 +63,6 @@
     "appid": 718850,
     "name": "Age of Wonders: Planetfall",
     "sort_as": "Age of Wonders X1"
-  },
-  {
-    "appid": 61520,
-    "name": "Age of Wonders: Shadow Magic",
-    "sort_as": "Age of Wonders 2X"
   },
   {
     "appid": 40400,
@@ -80,14 +80,14 @@
     "sort_as": "American Conquest: Fight Back"
   },
   {
-    "appid": 239200,
-    "name": "Amnesia: A Machine for Pigs",
-    "sort_as": "Amnesia 2"
-  },
-  {
     "appid": 57300,
     "name": "Amnesia: The Dark Descent",
     "sort_as": "Amnesia 1"
+  },
+  {
+    "appid": 239200,
+    "name": "Amnesia: A Machine for Pigs",
+    "sort_as": "Amnesia 2"
   },
   {
     "appid": 999220,
@@ -120,6 +120,11 @@
     "sort_as": "Anomaly Warzone Earth 1"
   },
   {
+    "appid": 252170,
+    "name": "Anomaly Warzone Earth Mobile Campaign",
+    "sort_as": "Anomaly Warzone Earth 1X1"
+  },
+  {
     "appid": 251530,
     "name": "Anomaly Korea",
     "sort_as": "Anomaly Warzone Earth 1X2"
@@ -128,11 +133,6 @@
     "appid": 236730,
     "name": "Anomaly 2",
     "sort_as": "Anomaly Warzone Earth 2"
-  },
-  {
-    "appid": 252170,
-    "name": "Anomaly Warzone Earth Mobile Campaign",
-    "sort_as": "Anomaly Warzone Earth 1X1"
   },
   {
     "appid": 294750,
@@ -145,11 +145,6 @@
     "sort_as": "Arcanum"
   },
   {
-    "appid": 33930,
-    "name": "Arma 2: Operation Arrowhead",
-    "sort_as": "Arma 2X"
-  },
-  {
     "appid": 65790,
     "name": "Arma: Cold War Assault",
     "sort_as": "Arma 0"
@@ -158,6 +153,11 @@
     "appid": 65780,
     "name": "Arma: Armed Assault",
     "sort_as": "Arma 1"
+  },
+  {
+    "appid": 33930,
+    "name": "Arma 2: Operation Arrowhead",
+    "sort_as": "Arma 2X"
   },
   {
     "appid": 1888160,
@@ -170,14 +170,19 @@
     "sort_as": "Assassin's Creed 01"
   },
   {
-    "appid": 48190,
-    "name": "Assassin's Creed: Brotherhood",
-    "sort_as": "Assassin's Creed 02 Brotherhood"
-  },
-  {
     "appid": 33230,
     "name": "Assassin's Creed II",
     "sort_as": "Assassin's Creed 02"
+  },
+  {
+    "appid": 48190,
+    "name": "Assassin's Creed: Brotherhood",
+    "sort_as": "Assassin's Creed 02X1"
+  },
+  {
+    "appid": 201870,
+    "name": "Assassin's Creed: Revelations",
+    "sort_as": "Assassin's Creed 02X2"
   },
   {
     "appid": 242050,
@@ -195,9 +200,9 @@
     "sort_as": "Assassin's Creed 10"
   },
   {
-    "appid": 201870,
-    "name": "Assassin's Creed: Revelations",
-    "sort_as": "Assassin's Creed 02 Revelations"
+    "appid": 1121560,
+    "name": "Atelier Ryza: Ever Darkness & the Secret Hideout",
+    "sort_as": "Atelier Ryza 1"
   },
   {
     "appid": 1257290,
@@ -205,19 +210,14 @@
     "sort_as": "Atelier Ryza 2"
   },
   {
-    "appid": 1121560,
-    "name": "Atelier Ryza: Ever Darkness & the Secret Hideout",
-    "sort_as": "Atelier Ryza 1"
+    "appid": 1502970,
+    "name": "Atelier Sophie: The Alchemist of the Mysterious Book DX",
+    "sort_as": "Atelier Sophie 1"
   },
   {
     "appid": 1621310,
     "name": "Atelier Sophie 2: The Alchemist of the Mysterious Dream",
     "sort_as": "Atelier Sophie 2"
-  },
-  {
-    "appid": 1502970,
-    "name": "Atelier Sophie: The Alchemist of the Mysterious Book DX",
-    "sort_as": "Atelier Sophie 1"
   },
   {
     "appid": 449800,
@@ -235,14 +235,14 @@
     "sort_as": "Avadon 1"
   },
   {
-    "appid": 460780,
-    "name": "Avadon 3: The Warborn",
-    "sort_as": "Avadon 3"
-  },
-  {
     "appid": 233310,
     "name": "Avadon 2: The Corruption",
     "sort_as": "Avadon 2"
+  },
+  {
+    "appid": 460780,
+    "name": "Avadon 3: The Warborn",
+    "sort_as": "Avadon 3"
   },
   {
     "appid": 208400,
@@ -285,9 +285,9 @@
     "sort_as": "Backbone"
   },
   {
-    "appid": 1086940,
-    "name": "Baldur's Gate 3",
-    "sort_as": "Baldur's Gate 3"
+    "appid": 228280,
+    "name": "Baldur's Gate: Enhanced Edition",
+    "sort_as": "Baldur's Gate 1"
   },
   {
     "appid": 257350,
@@ -295,9 +295,14 @@
     "sort_as": "Baldur's Gate 2"
   },
   {
-    "appid": 228280,
-    "name": "Baldur's Gate: Enhanced Edition",
-    "sort_as": "Baldur's Gate 1"
+    "appid": 1086940,
+    "name": "Baldur's Gate 3",
+    "sort_as": "Baldur's Gate 3"
+  },
+  {
+    "appid": 843260,
+    "name": "The Bard's Tale Trilogy",
+    "sort_as": "The Bard's Tale 1-2-3"
   },
   {
     "appid": 566090,
@@ -308,11 +313,6 @@
     "appid": 1091980,
     "name": "The Bard's Tale IV: Director's Cut",
     "sort_as": "The Bard's Tale 4X"
-  },
-  {
-    "appid": 843260,
-    "name": "The Bard's Tale Trilogy",
-    "sort_as": "The Bard's Tale 1-2-3"
   },
   {
     "appid": 35140,
@@ -355,14 +355,14 @@
     "sort_as": "Betrayal at Krondor"
   },
   {
-    "appid": 1146310,
-    "name": "Beyond a Steel Sky",
-    "sort_as": "Beneath a Steel Sky 2"
-  },
-  {
     "appid": 1368340,
     "name": "Beneath a Steel Sky",
     "sort_as": "Beneath a Steel Sky 1"
+  },
+  {
+    "appid": 1146310,
+    "name": "Beyond a Steel Sky",
+    "sort_as": "Beneath a Steel Sky 2"
   },
   {
     "appid": 325160,
@@ -550,16 +550,6 @@
     "sort_as": "Close Combat: Panthers in the Fog"
   },
   {
-    "appid": 443740,
-    "name": "Codename Panzers Phase One Soundtrack",
-    "sort_as": "Codename Panzers 1"
-  },
-  {
-    "appid": 443660,
-    "name": "Codename Panzers Phase Two Soundtrack",
-    "sort_as": "Codename Panzers 2"
-  },
-  {
     "appid": 411310,
     "name": "Codename: Panzers - Phase One",
     "sort_as": "Codename: Panzers 1"
@@ -645,24 +635,24 @@
     "sort_as": "Command & Conquer: Renegade"
   },
   {
-    "appid": 1100410,
-    "name": "Commandos 2 HD Remaster",
-    "sort_as": "Commandos 2 RE"
-  },
-  {
     "appid": 6830,
     "name": "Commandos 2: Men of Courage",
     "sort_as": "Commandos 2"
   },
   {
-    "appid": 1469170,
-    "name": "Commandos 3 HD Remaster",
-    "sort_as": "Commandos 3 RE"
+    "appid": 1100410,
+    "name": "Commandos 2 HD Remaster",
+    "sort_as": "Commandos 2 RE"
   },
   {
     "appid": 6840,
     "name": "Commandos 3: Destination Berlin",
     "sort_as": "Commandos 3"
+  },
+  {
+    "appid": 1469170,
+    "name": "Commandos 3 HD Remaster",
+    "sort_as": "Commandos 3 RE"
   },
   {
     "appid": 228200,
@@ -720,6 +710,11 @@
     "sort_as": "Cossacks 2X"
   },
   {
+    "appid": 10,
+    "name": "Counter-Strike",
+    "sort_as": "Counter-Strike 1"
+  },
+  {
     "appid": 80,
     "name": "Counter-Strike: Condition Zero",
     "sort_as": "Counter-Strike 1X1"
@@ -728,11 +723,6 @@
     "appid": 100,
     "name": "Counter-Strike: Condition Zero Deleted Scenes",
     "sort_as": "Counter-Strike 1X2"
-  },
-  {
-    "appid": 10,
-    "name": "Counter-Strike",
-    "sort_as": "Counter-Strike 1"
   },
   {
     "appid": 731490,
@@ -745,14 +735,14 @@
     "sort_as": "Crash Bandicoot 4"
   },
   {
-    "appid": 422920,
-    "name": "Creeper World 2",
-    "sort_as": "Creeper World 2"
-  },
-  {
     "appid": 422910,
     "name": "Creeper World",
     "sort_as": "Creeper World 1"
+  },
+  {
+    "appid": 422920,
+    "name": "Creeper World 2",
+    "sort_as": "Creeper World 2"
   },
   {
     "appid": 1608070,
@@ -770,6 +760,16 @@
     "sort_as": "Crusader Kings"
   },
   {
+    "appid": 1715130,
+    "name": "Crysis Remastered",
+    "sort_as": "Crysis 1 RE"
+  },
+  {
+    "appid": 17330,
+    "name": "Crysis Warhead",
+    "sort_as": "Crysis 1 X"
+  },
+  {
     "appid": 108800,
     "name": "Crysis 2",
     "sort_as": "Crysis 2"
@@ -780,29 +780,19 @@
     "sort_as": "Crysis 2 RE"
   },
   {
+    "appid": 1282690,
+    "name": "Crysis 3",
+    "sort_as": "Crysis 3"
+  },
+  {
     "appid": 2096610,
     "name": "Crysis 3 Remastered",
     "sort_as": "Crysis 3 RE"
   },
   {
-    "appid": 1715130,
-    "name": "Crysis Remastered",
-    "sort_as": "Crysis 1 RE"
-  },
-  {
     "appid": 17340,
     "name": "Crysis Wars",
     "sort_as": "Crysis X "
-  },
-  {
-    "appid": 1282690,
-    "name": "Crysis 3 ",
-    "sort_as": "Crysis 3 "
-  },
-  {
-    "appid": 17330,
-    "name": "Crysis Warhead",
-    "sort_as": "Crysis 1 X"
   },
   {
     "appid": 1057540,
@@ -820,14 +810,14 @@
     "sort_as": "Dandara"
   },
   {
+    "appid": 413410,
+    "name": "Danganronpa: Trigger Happy Havoc",
+    "sort_as": "Danganronpa 1"
+  },
+  {
     "appid": 413420,
     "name": "Danganronpa 2: Goodbye Despair",
     "sort_as": "Danganronpa 2"
-  },
-  {
-    "appid": 555950,
-    "name": "Danganronpa Another Episode: Ultra Despair Girls",
-    "sort_as": "Danganronpa X"
   },
   {
     "appid": 567640,
@@ -835,9 +825,9 @@
     "sort_as": "Danganronpa 3"
   },
   {
-    "appid": 413410,
-    "name": "Danganronpa: Trigger Happy Havoc",
-    "sort_as": "Danganronpa 1"
+    "appid": 555950,
+    "name": "Danganronpa Another Episode: Ultra Despair Girls",
+    "sort_as": "Danganronpa X"
   },
   {
     "appid": 260690,
@@ -870,16 +860,6 @@
     "sort_as": "The Dark Pictures Anthology 2"
   },
   {
-    "appid": 236430,
-    "name": "Dark Souls II",
-    "sort_as": "Dark Souls 2"
-  },
-  {
-    "appid": 374320,
-    "name": "Dark Souls III",
-    "sort_as": "Dark Souls 3"
-  },
-  {
     "appid": 211420,
     "name": "Dark Souls: Prepare To Die Edition",
     "sort_as": "Dark Souls 1"
@@ -890,9 +870,19 @@
     "sort_as": "Dark Souls 1 RE"
   },
   {
+    "appid": 236430,
+    "name": "Dark Souls II",
+    "sort_as": "Dark Souls 2"
+  },
+  {
     "appid": 335300,
     "name": "Dark Souls II: Scholar of the First Sin",
     "sort_as": "Dark Souls 2 RE"
+  },
+  {
+    "appid": 374320,
+    "name": "Dark Souls III",
+    "sort_as": "Dark Souls 3"
   },
   {
     "appid": 262060,
@@ -980,14 +970,14 @@
     "sort_as": "Deponia 3"
   },
   {
-    "appid": 421050,
-    "name": "Deponia Doomsday",
-    "sort_as": "Deponia 4"
-  },
-  {
     "appid": 292910,
     "name": "Deponia: The Complete Journey",
     "sort_as": "Deponia 3X"
+  },
+  {
+    "appid": 421050,
+    "name": "Deponia Doomsday",
+    "sort_as": "Deponia 4"
   },
   {
     "appid": 260730,
@@ -1010,14 +1000,19 @@
     "sort_as": "Deus Ex 1"
   },
   {
+    "appid": 397550,
+    "name": "Deus Ex: Revision",
+    "sort_as": "Deus Ex 1 RE"
+  },
+  {
+    "appid": 6920,
+    "name": "Deus Ex: Invisible War",
+    "sort_as": "Deus Ex 2"
+  },
+  {
     "appid": 28050,
     "name": "Deus Ex: Human Revolution",
     "sort_as": "Deus Ex 3"
-  },
-  {
-    "appid": 238010,
-    "name": "Deus Ex: Human Revolution - Director's Cut",
-    "sort_as": "Deus Ex 3 RE"
   },
   {
     "appid": 201280,
@@ -1025,24 +1020,24 @@
     "sort_as": "Deus Ex 3 DLC"
   },
   {
+    "appid": 238010,
+    "name": "Deus Ex: Human Revolution - Director's Cut",
+    "sort_as": "Deus Ex 3 RE"
+  },
+  {
     "appid": 337000,
     "name": "Deus Ex: Mankind Divided",
     "sort_as": "Deus Ex 4"
   },
   {
-    "appid": 397550,
-    "name": "Deus Ex: Revision",
-    "sort_as": "Deus Ex 1 RE"
+    "appid": 631510,
+    "name": "Devil May Cry HD Collection",
+    "sort_as": "Devil May Cry 1-2-3"
   },
   {
     "appid": 329050,
     "name": "Devil May Cry 4 Special Edition",
     "sort_as": "Devil May Cry 4"
-  },
-  {
-    "appid": 631510,
-    "name": "Devil May Cry HD Collection",
-    "sort_as": "Devil May Cry 1-2-3"
   },
   {
     "appid": 405900,
@@ -1121,7 +1116,7 @@
   },
   {
     "appid": 2280,
-    "name": "DOOM (1993)",
+    "name": "DOOM",
     "sort_as": "DOOM 1"
   },
   {
@@ -1151,7 +1146,7 @@
   },
   {
     "appid": 379720,
-    "name": "DOOM",
+    "name": "DOOM (2016)",
     "sort_as": "DOOM 4"
   },
   {
@@ -1163,11 +1158,6 @@
     "appid": 1148590,
     "name": "DOOM 64",
     "sort_as": "DOOM X"
-  },
-  {
-    "appid": 1238040,
-    "name": "Dragon Age II",
-    "sort_as": "Dragon Age 2"
   },
   {
     "appid": 17450,
@@ -1183,6 +1173,11 @@
     "appid": 47810,
     "name": "Dragon Age: Origins - Ultimate Edition",
     "sort_as": "Dragon Age 1X2"
+  },
+  {
+    "appid": 1238040,
+    "name": "Dragon Age II",
+    "sort_as": "Dragon Age 2"
   },
   {
     "appid": 1222690,
@@ -1232,12 +1227,12 @@
   {
     "appid": 12640,
     "name": "Drakensang: The Dark Eye",
-    "sort_as": "Drakensang: The Dark Eye"
+    "sort_as": "Drakensang 1"
   },
   {
     "appid": 33770,
     "name": "Drakensang: The River of Time",
-    "sort_as": "Drakensang: The River of Time"
+    "sort_as": "Drakensang 2"
   },
   {
     "appid": 6300,
@@ -1280,14 +1275,14 @@
     "sort_as": "Dungeon of the Endless"
   },
   {
-    "appid": 39160,
-    "name": "Dungeon Siege III",
-    "sort_as": "Dungeon Siege 3"
-  },
-  {
     "appid": 39200,
     "name": "Dungeon Siege II",
     "sort_as": "Dungeon Siege 2"
+  },
+  {
+    "appid": 39160,
+    "name": "Dungeon Siege III",
+    "sort_as": "Dungeon Siege 3"
   },
   {
     "appid": 534380,
@@ -1331,7 +1326,7 @@
   },
   {
     "appid": 22330,
-    "name": "The Elder Scrolls IV: Oblivion ",
+    "name": "The Elder Scrolls IV: Oblivion",
     "sort_as": "The Elder Scrolls 4"
   },
   {
@@ -1425,9 +1420,9 @@
     "sort_as": "Fallout 3"
   },
   {
-    "appid": 1151340,
-    "name": "Fallout 76",
-    "sort_as": "Fallout X 2"
+    "appid": 22380,
+    "name": "Fallout: New Vegas",
+    "sort_as": "Fallout 3X"
   },
   {
     "appid": 38420,
@@ -1435,9 +1430,9 @@
     "sort_as": "Fallout X 1"
   },
   {
-    "appid": 22380,
-    "name": "Fallout: New Vegas",
-    "sort_as": "Fallout 3X"
+    "appid": 1151340,
+    "name": "Fallout 76",
+    "sort_as": "Fallout X 2"
   },
   {
     "appid": 220240,
@@ -1492,7 +1487,7 @@
   {
     "appid": 1462040,
     "name": "Final Fantasy VII Remake",
-    "sort_as": "Final Fantasy 07 RE"
+    "sort_as": "Final Fantasy 07 RE 1"
   },
   {
     "appid": 39150,
@@ -1687,7 +1682,7 @@
   {
     "appid": 3240220,
     "name": "Grand Theft Auto V Enhanced",
-    "sort_as": "Grand Theft Auto 5 R"
+    "sort_as": "Grand Theft Auto 5 RE"
   },
   {
     "appid": 2109370,
@@ -1705,14 +1700,14 @@
     "sort_as": "Ground Control"
   },
   {
-    "appid": 426790,
-    "name": "Grow Up",
-    "sort_as": "Grow Home 2"
-  },
-  {
     "appid": 323320,
     "name": "Grow Home",
     "sort_as": "Grow Home 1"
+  },
+  {
+    "appid": 426790,
+    "name": "Grow Up",
+    "sort_as": "Grow Home 2"
   },
   {
     "appid": 214770,
@@ -1750,6 +1745,11 @@
     "sort_as": "Half-Life 1"
   },
   {
+    "appid": 280,
+    "name": "Half-Life: Source",
+    "sort_as": "Half-Life 1R"
+  },
+  {
     "appid": 50,
     "name": "Half-Life: Opposing Force",
     "sort_as": "Half-Life 1X1"
@@ -1758,11 +1758,6 @@
     "appid": 130,
     "name": "Half-Life: Blue Shift",
     "sort_as": "Half-Life 1X2"
-  },
-  {
-    "appid": 280,
-    "name": "Half-Life: Source",
-    "sort_as": "Half-Life 1R"
   },
   {
     "appid": 360,
@@ -1790,14 +1785,14 @@
     "sort_as": "Half-Life 2X4"
   },
   {
-    "appid": 1240440,
-    "name": "Halo Infinite",
-    "sort_as": "Halo 6"
-  },
-  {
     "appid": 976730,
     "name": "Halo: The Master Chief Collection",
     "sort_as": "Halo 1-2-3-4"
+  },
+  {
+    "appid": 1240440,
+    "name": "Halo Infinite",
+    "sort_as": "Halo 6"
   },
   {
     "appid": 22130,
@@ -1845,16 +1840,6 @@
     "sort_as": "Hitman 5"
   },
   {
-    "appid": 427820,
-    "name": "Hitman GO",
-    "sort_as": "Hitman X 1"
-  },
-  {
-    "appid": 205930,
-    "name": "Hitman: Sniper Challenge",
-    "sort_as": "Hitman X 2"
-  },
-  {
     "appid": 236870,
     "name": "Hitman",
     "sort_as": "Hitman 6"
@@ -1863,6 +1848,16 @@
     "appid": 863550,
     "name": "Hitman 2",
     "sort_as": "Hitman 7"
+  },
+  {
+    "appid": 427820,
+    "name": "Hitman GO",
+    "sort_as": "Hitman X 1"
+  },
+  {
+    "appid": 205930,
+    "name": "Hitman: Sniper Challenge",
+    "sort_as": "Hitman X 2"
   },
   {
     "appid": 1151640,
@@ -1877,7 +1872,7 @@
   {
     "appid": 518790,
     "name": "theHunter: Call of the Wild",
-    "sort_as": "theHunter: Call of the Wild"
+    "sort_as": "Hunter: Call of the Wild"
   },
   {
     "appid": 15320,
@@ -1885,14 +1880,14 @@
     "sort_as": "IL-2 Sturmovik 1"
   },
   {
-    "appid": 754530,
-    "name": "IL-2 Sturmovik: Cliffs of Dover Blitz",
-    "sort_as": "IL-2 Sturmovik 2 RE"
-  },
-  {
     "appid": 63950,
     "name": "IL-2 Sturmovik: Cliffs of Dover",
     "sort_as": "IL-2 Sturmovik 2"
+  },
+  {
+    "appid": 754530,
+    "name": "IL-2 Sturmovik: Cliffs of Dover Blitz",
+    "sort_as": "IL-2 Sturmovik 2 RE"
   },
   {
     "appid": 307960,
@@ -1975,6 +1970,11 @@
     "sort_as": "Jazzpunk"
   },
   {
+    "appid": 220090,
+    "name": "The Journey Down: Chapter One",
+    "sort_as": "The Journey Down 1"
+  },
+  {
     "appid": 262850,
     "name": "The Journey Down: Chapter Two",
     "sort_as": "The Journey Down 2"
@@ -1983,11 +1983,6 @@
     "appid": 579760,
     "name": "The Journey Down: Chapter Three",
     "sort_as": "The Journey Down 3"
-  },
-  {
-    "appid": 220090,
-    "name": "The Journey Down: Chapter One",
-    "sort_as": "The Journey Down 1"
   },
   {
     "appid": 2058180,
@@ -2190,14 +2185,14 @@
     "sort_as": "The Last Oricru"
   },
   {
-    "appid": 213330,
-    "name": "LEGO Batman 2: DC Super Heroes",
-    "sort_as": "LEGO Batman 2"
-  },
-  {
     "appid": 21000,
     "name": "LEGO Batman: The Videogame",
     "sort_as": "LEGO Batman 1"
+  },
+  {
+    "appid": 213330,
+    "name": "LEGO Batman 2: DC Super Heroes",
+    "sort_as": "LEGO Batman 2"
   },
   {
     "appid": 313690,
@@ -2220,9 +2215,24 @@
     "sort_as": "LEGO Harry Potter: Years 5-7"
   },
   {
+    "appid": 285160,
+    "name": "LEGO The Hobbit",
+    "sort_as": "LEGO The Hobbit"
+  },
+  {
+    "appid": 32330,
+    "name": "LEGO Indiana Jones: The Original Adventures",
+    "sort_as": "LEGO Indiana Jones 1"
+  },
+  {
     "appid": 32450,
     "name": "LEGO Indiana Jones 2: The Adventure Continues",
     "sort_as": "LEGO Indiana Jones 2"
+  },
+  {
+    "appid": 214510,
+    "name": "LEGO The Lord of the Rings",
+    "sort_as": "LEGO The Lord of the Rings"
   },
   {
     "appid": 249130,
@@ -2235,24 +2245,9 @@
     "sort_as": "LEGO Star Wars: The Complete Saga"
   },
   {
-    "appid": 285160,
-    "name": "LEGO The Hobbit",
-    "sort_as": "LEGO The Hobbit"
-  },
-  {
-    "appid": 214510,
-    "name": "LEGO The Lord of the Rings",
-    "sort_as": "LEGO The Lord of the Rings"
-  },
-  {
     "appid": 332310,
     "name": "LEGO Worlds",
     "sort_as": "LEGO Worlds"
-  },
-  {
-    "appid": 32330,
-    "name": "LEGO Indiana Jones: The Original Adventures",
-    "sort_as": "LEGO Indiana Jones 1"
   },
   {
     "appid": 319630,
@@ -2260,14 +2255,14 @@
     "sort_as": "Life is Strange 1"
   },
   {
-    "appid": 2933130,
-    "name": "The Lord of the Rings: Return to Moria",
-    "sort_as": "The Lord of the Rings: Return to Moria"
-  },
-  {
     "appid": 212500,
     "name": "The Lord of the Rings Online",
     "sort_as": "The Lord of the Rings Online"
+  },
+  {
+    "appid": 2933130,
+    "name": "The Lord of the Rings: Return to Moria",
+    "sort_as": "The Lord of the Rings: Return to Moria"
   },
   {
     "appid": 1462570,
@@ -2378,6 +2373,11 @@
     "appid": 1623070,
     "name": "Master of Magic",
     "sort_as": "Master of Magic 2"
+  },
+  {
+    "appid": 4700,
+    "name": "Medieval II: Total War",
+    "sort_as": "Medieval II: Total War"
   },
   {
     "appid": 2131680,
@@ -2971,7 +2971,7 @@
   },
   {
     "appid": 1793030,
-    "name": "Romancing SaGa -Minstrel Song- Remastered",
+    "name": "Romancing SaGa: Minstrel Song Remastered",
     "sort_as": "Romancing SaGa 1 RE"
   },
   {
@@ -3065,29 +3065,9 @@
     "sort_as": "Sekiro: Shadows Die Twice"
   },
   {
-    "appid": 41070,
-    "name": "Serious Sam 3: BFE",
-    "sort_as": "Serious Sam 3"
-  },
-  {
     "appid": 41050,
     "name": "Serious Sam: The First Encounter",
     "sort_as": "Serious Sam 1X1"
-  },
-  {
-    "appid": 41060,
-    "name": "Serious Sam: The Second Encounter",
-    "sort_as": "Serious Sam 1X2"
-  },
-  {
-    "appid": 227780,
-    "name": "Serious Sam Classics: Revolution",
-    "sort_as": "Serious Sam 1X3"
-  },
-  {
-    "appid": 111600,
-    "name": "Serious Sam Double D XXL",
-    "sort_as": "Serious Sam X 1"
   },
   {
     "appid": 41000,
@@ -3095,14 +3075,49 @@
     "sort_as": "Serious Sam 1X1 RE"
   },
   {
+    "appid": 41060,
+    "name": "Serious Sam: The Second Encounter",
+    "sort_as": "Serious Sam 1X2"
+  },
+  {
     "appid": 41010,
     "name": "Serious Sam HD: The Second Encounter",
     "sort_as": "Serious Sam 1X2 RE"
   },
   {
+    "appid": 227780,
+    "name": "Serious Sam Classics: Revolution",
+    "sort_as": "Serious Sam 1X3"
+  },
+  {
+    "appid": 204340,
+    "name": "Serious Sam 2",
+    "sort_as": "Serious Sam 2"
+  },
+  {
+    "appid": 41070,
+    "name": "Serious Sam 3: BFE",
+    "sort_as": "Serious Sam 3"
+  },
+  {
+    "appid": 1792250,
+    "name": "Serious Sam: Siberian Mayhem",
+    "sort_as": "Serious Sam 4"
+  },
+  {
+    "appid": 111600,
+    "name": "Serious Sam Double D XXL",
+    "sort_as": "Serious Sam X 1"
+  },
+  {
     "appid": 201480,
     "name": "Serious Sam: The Random Encounter",
     "sort_as": "Serious Sam X 2"
+  },
+  {
+    "appid": 272620,
+    "name": "Serious Sam's Bogus Detour",
+    "sort_as": "Serious Sam X 3"
   },
   {
     "appid": 965300,
@@ -3130,9 +3145,9 @@
     "sort_as": "Shadowrun 1"
   },
   {
-    "appid": 272030,
+    "appid": 300550,
     "name": "Shadowrun: Dragonfall",
-    "sort_as": "Shadowrun: Dragonfall"
+    "sort_as": "Shadowrun 2"
   },
   {
     "appid": 346940,
@@ -3266,13 +3281,18 @@
   },
   {
     "appid": 213610,
-    "name": "Sonic Adventure 2 ",
-    "sort_as": "Sonic Adventure 2 "
+    "name": "Sonic Adventure 2",
+    "sort_as": "Sonic Adventure 2"
   },
   {
     "appid": 71250,
     "name": "Sonic Adventure DX",
     "sort_as": "Sonic Adventure 1"
+  },
+  {
+    "appid": 411000,
+    "name": "Sorcery! Parts 1 & 2",
+    "sort_as": "Sorcery! 1 + 2"
   },
   {
     "appid": 445040,
@@ -3283,11 +3303,6 @@
     "appid": 504800,
     "name": "Sorcery! Part 4",
     "sort_as": "Sorcery! 4"
-  },
-  {
-    "appid": 411000,
-    "name": "Sorcery! Parts 1 & 2",
-    "sort_as": "Sorcery! 1 + 2"
   },
   {
     "appid": 213670,
@@ -3305,11 +3320,6 @@
     "sort_as": "Seven: The Days Long Gone"
   },
   {
-    "appid": 300550,
-    "name": "Shadowrun: Dragonfall",
-    "sort_as": "Shadowrun 2"
-  },
-  {
     "appid": 39540,
     "name": "SpellForce: The Order of Dawn",
     "sort_as": "SpellForce 1"
@@ -3325,14 +3335,14 @@
     "sort_as": "SpellForce 3"
   },
   {
-    "appid": 1154040,
-    "name": "SpellForce 3: Fallen God",
-    "sort_as": "SpellForce 3X2"
-  },
-  {
     "appid": 817540,
     "name": "SpellForce 3: Soul Harvest",
     "sort_as": "SpellForce 3X1"
+  },
+  {
+    "appid": 1154040,
+    "name": "SpellForce 3: Fallen God",
+    "sort_as": "SpellForce 3X2"
   },
   {
     "appid": 1416260,
@@ -3399,7 +3409,6 @@
     "name": "Star Ocean: The Divine Force",
     "sort_as": "Star Ocean 6"
   },
-  
   {
     "appid": 1058020,
     "name": "Star Wars: Battlefront",
@@ -3503,7 +3512,12 @@
   {
     "appid": 40950,
     "name": "Stronghold HD",
-    "sort_as": "Stronghold 1 HD"
+    "sort_as": "Stronghold 1 RE 1"
+  },
+  {
+    "appid": 2140020,
+    "name": "Stronghold: Definitive Edition",
+    "sort_as": "Stronghold 1 RE 2"
   },
   {
     "appid": 40970,
@@ -3521,14 +3535,14 @@
     "sort_as": "Stronghold 1X3"
   },
   {
-    "appid": 612520,
-    "name": "Sudden Strike 2",
-    "sort_as": "Sudden Strike 2"
+    "appid": 40960,
+    "name": "Stronghold 2",
+    "sort_as": "Stronghold 2"
   },
   {
-    "appid": 613650,
-    "name": "Sudden Strike 3: Last Stand",
-    "sort_as": "Sudden Strike 3X"
+    "appid": 40980,
+    "name": "Stronghold Legends",
+    "sort_as": "Stronghold X 1"
   },
   {
     "appid": 612300,
@@ -3539,6 +3553,16 @@
     "appid": 613600,
     "name": "Sudden Strike Resource War",
     "sort_as": "Sudden Strike 1X"
+  },
+  {
+    "appid": 612520,
+    "name": "Sudden Strike 2",
+    "sort_as": "Sudden Strike 2"
+  },
+  {
+    "appid": 613650,
+    "name": "Sudden Strike 3: Last Stand",
+    "sort_as": "Sudden Strike 3X"
   },
   {
     "appid": 2108180,
@@ -3562,7 +3586,7 @@
   },
   {
     "appid": 410700,
-    "name": "System Shock (1994)",
+    "name": "System Shock",
     "sort_as": "System Shock 1"
   },
   {
@@ -3572,7 +3596,7 @@
   },
   {
     "appid": 482400,
-    "name": "System Shock",
+    "name": "System Shock (2023)",
     "sort_as": "System Shock 1 RE 2"
   },
   {
@@ -3731,11 +3755,6 @@
     "sort_as": "Tormentor X Punisher"
   },
   {
-    "appid": 4700,
-    "name": "Medieval II: Total War",
-    "sort_as": "Medieval II: Total War"
-  },
-  {
     "appid": 23490,
     "name": "Tropico 3",
     "sort_as": "Tropico 3"
@@ -3751,14 +3770,14 @@
     "sort_as": "Twinsen's Little Big Adventure Classic 1"
   },
   {
-    "appid": 1857710,
-    "name": "Twinsen's Little Big Adventure 2 Classic - Original",
-    "sort_as": "Twinsen's Little Big Adventure 2 Classic - Original"
-  },
-  {
     "appid": 398000,
     "name": "Twinsen's Little Big Adventure 2 Classic",
     "sort_as": "Twinsen's Little Big Adventure Classic 2"
+  },
+  {
+    "appid": 1857710,
+    "name": "Twinsen's Little Big Adventure 2 Classic - Original",
+    "sort_as": "Twinsen's Little Big Adventure 2 Classic - Original"
   },
   {
     "appid": 7520,
@@ -3783,12 +3802,12 @@
   {
     "appid": 306660,
     "name": "Ultimate General: Gettysburg",
-    "sort_as": "Ultimate General: Gettysburg 1"
+    "sort_as": "Ultimate General 1"
   },
   {
     "appid": 502520,
     "name": "Ultimate General: Civil War",
-    "sort_as": "Ultimate General: Gettysburg 2"
+    "sort_as": "Ultimate General 2"
   },
   {
     "appid": 1659420,
@@ -3836,14 +3855,14 @@
     "sort_as": "Valkyria Chronicles 4"
   },
   {
-    "appid": 42960,
-    "name": "Victoria II",
-    "sort_as": "Victoria 2"
-  },
-  {
     "appid": 42980,
     "name": "Victoria: An Empire Under the Sun",
     "sort_as": "Victoria 1"
+  },
+  {
+    "appid": 42960,
+    "name": "Victoria II",
+    "sort_as": "Victoria 2"
   },
   {
     "appid": 1113570,
@@ -3883,7 +3902,7 @@
   {
     "appid": 1449690,
     "name": "The Walking Dead: The Telltale Definitive Series",
-    "sort_as": "The Walking Dead 5"
+    "sort_as": "The Walking Dead 6"
   },
   {
     "appid": 301930,
@@ -3966,14 +3985,14 @@
     "sort_as": "Warhammer 40,000: Space Marine"
   },
   {
-    "appid": 205990,
-    "name": "Warlock 2: The Exiled",
-    "sort_as": "Warlock 2"
-  },
-  {
     "appid": 203630,
     "name": "Warlock: Master of the Arcane",
     "sort_as": "Warlock 1"
+  },
+  {
+    "appid": 205990,
+    "name": "Warlock 2: The Exiled",
+    "sort_as": "Warlock 2"
   },
   {
     "appid": 1026420,
@@ -3986,14 +4005,14 @@
     "sort_as": "Wasteland 1"
   },
   {
-    "appid": 404730,
-    "name": "Wasteland 2: Director's Cut",
-    "sort_as": "Wasteland 2 RE"
-  },
-  {
     "appid": 875800,
     "name": "Wasteland Remastered",
     "sort_as": "Wasteland 1 RE"
+  },
+  {
+    "appid": 404730,
+    "name": "Wasteland 2: Director's Cut",
+    "sort_as": "Wasteland 2 RE"
   },
   {
     "appid": 1097350,
@@ -4011,14 +4030,14 @@
     "sort_as": "Wizardry 1"
   },
   {
-    "appid": 245430,
-    "name": "Wizardry VII: Crusaders of the Dark Savant",
-    "sort_as": "Wizardry 7"
-  },
-  {
     "appid": 245410,
     "name": "Wizardry VI: Bane of the Cosmic Forge",
     "sort_as": "Wizardry 6"
+  },
+  {
+    "appid": 245430,
+    "name": "Wizardry VII: Crusaders of the Dark Savant",
+    "sort_as": "Wizardry 7"
   },
   {
     "appid": 201810,
@@ -4081,6 +4100,16 @@
     "sort_as": "XIII"
   },
   {
+    "appid": 834530,
+    "name": "Yakuza Kiwami",
+    "sort_as": "Yakuza 1 RE"
+  },
+  {
+    "appid": 927380,
+    "name": "Yakuza Kiwami 2",
+    "sort_as": "Yakuza 2 RE"
+  },
+  {
     "appid": 1088710,
     "name": "Yakuza 3 Remastered",
     "sort_as": "Yakuza 3 RE"
@@ -4099,16 +4128,6 @@
     "appid": 1388590,
     "name": "Yakuza 6: The Song of Life",
     "sort_as": "Yakuza 6"
-  },
-  {
-    "appid": 834530,
-    "name": "Yakuza Kiwami",
-    "sort_as": "Yakuza 1 RE"
-  },
-  {
-    "appid": 927380,
-    "name": "Yakuza Kiwami 2",
-    "sort_as": "Yakuza 2 RE"
   },
   {
     "appid": 1235140,
@@ -4173,6 +4192,6 @@
   {
     "appid": 650510,
     "name": "Zone of the Enders: The 2nd Runner - M∀RS",
-    "sort_as": "Zone of the Enders: The 2nd Runner - M∀RS"
+    "sort_as": "Zone of the Enders 2 RE"
   }
 ]
