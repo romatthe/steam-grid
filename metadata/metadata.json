@@ -2890,6 +2890,16 @@
     "sort_as": "Resident Evil 1 RE"
   },
   {
+    "appid": 254700,
+    "name": "Resident Evil 4",
+    "sort_as": "Resident Evil 4"
+  },
+  {
+    "appid": 2050650,
+    "name": "Resident Evil 4 (2023)",
+    "sort_as": "Resident Evil 4 RE"
+  },
+  {
     "appid": 418370,
     "name": "Resident Evil 7 Biohazard",
     "sort_as": "Resident Evil 7"
