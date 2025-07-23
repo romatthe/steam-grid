@@ -15,6 +15,26 @@
     "sort_as": "Aeon of Sands: The Trail"
   },
   {
+    "appid": 1017900,
+    "name": "Age of Empires: Definitive Edition",
+    "sort_as": "Age of Empires 1 RE"
+  },
+  {
+    "appid": 221380,
+    "name": "Age of Empires II: HD Edition",
+    "sort_as": "Age of Empires 2"
+  },
+  {
+    "appid": 813780,
+    "name": "Age of Empires II: Definitive Edition",
+    "sort_as": "Age of Empires 2 RE"
+  },
+  {
+    "appid": 933110,
+    "name": "Age of Empires III: Definitive Edition",
+    "sort_as": "Age of Empires 3 RE"
+  },
+  {
     "appid": 1466860,
     "name": "Age of Empires IV",
     "sort_as": "Age of Empires 4"
