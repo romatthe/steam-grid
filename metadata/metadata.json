@@ -3912,7 +3912,12 @@
   {
     "appid": 260230,
     "name": "Valiant Hearts: The Great War",
-    "sort_as": "Valiant Hearts: The Great War"
+    "sort_as": "Valiant Hearts 1"
+  },
+  {
+    "appid": 2741360,
+    "name": "Valiant Hearts: Coming Home",
+    "sort_as": "Valiant Hearts 2"
   },
   {
     "appid": 294860,
