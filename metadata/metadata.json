@@ -1500,6 +1500,11 @@
     "sort_as": "Final Fantasy 03 3D"
   },
   {
+    "appid": 1173800,
+    "name": "Final Fantasy IV",
+    "sort_as": "Final Fantasy 04"
+  },
+  {
     "appid": 312750,
     "name": "Final Fantasy IV (3D Remake)",
     "sort_as": "Final Fantasy 04 3D"
@@ -1508,6 +1513,16 @@
     "appid": 346830,
     "name": "Final Fantasy IV: The After Years",
     "sort_as": "Final Fantasy 04 3D X"
+  },
+  {
+    "appid": 1173810,
+    "name": "Final Fantasy V",
+    "sort_as": "Final Fantasy 05"
+  },
+  {
+    "appid": 1173820,
+    "name": "Final Fantasy VI",
+    "sort_as": "Final Fantasy 06"
   },
   {
     "appid": 39140,
