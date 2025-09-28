@@ -585,9 +585,54 @@
     "sort_as": "Codename: Panzers 3"
   },
   {
+    "appid": 3843550,
+    "name": "Combat Mission: Beyond Overlord",
+    "sort_as": "Combat Mission 01"
+  },
+  {
+    "appid": 3843560,
+    "name": "Combat Mission II: Barbarossa to Berlin",
+    "sort_as": "Combat Mission 02"
+  },
+  {
+    "appid": 3843570,
+    "name": "Combat Mission 3: Afrika Korps",
+    "sort_as": "Combat Mission 03"
+  },
+  {
+    "appid": 2297010,
+    "name": "Combat Mission: Battle for Normandy",
+    "sort_as": "Combat Mission 05"
+  },
+  {
+    "appid": 2551110,
+    "name": "Combat Mission: Fortress Italy",
+    "sort_as": "Combat Mission 06"
+  },
+  {
+    "appid": 2418000,
+    "name": "Combat Mission: Red Thunder",
+    "sort_as": "Combat Mission 07"
+  },
+  {
     "appid": 1502380,
     "name": "Combat Mission: Black Sea",
-    "sort_as": "Combat Mission: Black Sea"
+    "sort_as": "Combat Mission 08"
+  },
+  {
+    "appid": 2676000,
+    "name": "Combat Mission: Final Blitzkrieg",
+    "sort_as": "Combat Mission 09"
+  },
+  {
+    "appid": 1369370,
+    "name": "Combat Mission: Shock Force 2",
+    "sort_as": "Combat Mission 10"
+  },
+  {
+    "appid": 1551160,
+    "name": "Combat Mission: Cold War",
+    "sort_as": "Combat Mission 11"
   },
   {
     "appid": 2229830,
