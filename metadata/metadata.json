@@ -1989,6 +1989,11 @@
     "name": "IL-2 Sturmovik: Battle of Stalingrad",
     "sort_as": "IL-2 Sturmovik 3"
   },
+    {
+    "appid": 2009100,
+    "name": "Immortals of Aveum",
+    "sort_as": "Immortals of Aveum"
+  },
   {
     "appid": 32310,
     "name": "Indiana Jones and the Last Crusade",
