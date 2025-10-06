@@ -2820,9 +2820,19 @@
     "sort_as": "PixelJunk Shooter Ultimate"
   },
   {
+    "appid": 2203860,
+    "name": "Populous",
+    "sort_as": "Populous 1"
+  },
+  {
+    "appid": 2616450,
+    "name": "Populous II: Trials of the Olympian Gods",
+    "sort_as": "Populous 2"
+  },
+  {
     "appid": 2616430,
     "name": "Populous: The Beginning",
-    "sort_as": "Populous: The Beginning"
+    "sort_as": "Populous 3"
   },
   {
     "appid": 736220,
