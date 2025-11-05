@@ -1470,9 +1470,29 @@
     "sort_as": "Escape from Monkey Island"
   },
   {
+    "appid": 25800,
+    "name": "Europa Universalis III",
+    "sort_as": "Europa Universalis 3"
+  },
+  {
+    "appid": 236850,
+    "name": "Europa Universalis IV",
+    "sort_as": "Europa Universalis 4"
+  },
+  {
+    "appid": 3450310,
+    "name": "Europa Universalis V",
+    "sort_as": "Europa Universalis 5"
+  },
+  {
     "appid": 23420,
     "name": "Europa Universalis: Rome",
-    "sort_as": "Europa Universalis: Rome"
+    "sort_as": "Europa Universalis X1"
+  },
+  {
+    "appid": 23440,
+    "name": "Europa Universalis: Rome - Vae Victis",
+    "sort_as": "Europa Universalis X1X"
   },
   {
     "appid": 396750,
