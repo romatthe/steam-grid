@@ -3895,9 +3895,24 @@
     "sort_as": "Tom Clancy's Splinter Cell 1"
   },
   {
+    "appid": 3929740,
+    "name": "Tom Clancy's Splinter Cell: Pandora Tomorrow",
+    "sort_as": "Tom Clancy's Splinter Cell 2"
+  },
+  {
     "appid": 13570,
     "name": "Tom Clancy's Splinter Cell: Chaos Theory",
     "sort_as": "Tom Clancy's Splinter Cell 3"
+  },
+  {
+    "appid": 13580,
+    "name": "Tom Clancy's Splinter Cell: Double Agent",
+    "sort_as": "Tom Clancy's Splinter Cell 4"
+  },
+  {
+    "appid": 33220,
+    "name": "Tom Clancy's Splinter Cell: Conviction",
+    "sort_as": "Tom Clancy's Splinter Cell 5"
   },
   {
     "appid": 235600,
