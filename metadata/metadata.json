@@ -745,6 +745,11 @@
     "sort_as": "Company of Heroes 1X2"
   },
   {
+    "appid": 1286990,
+    "name": "Conscript",
+    "sort_as": "Conscript"
+  },
+  {
     "appid": 264240,
     "name": "Consortium",
     "sort_as": "Consortium"
