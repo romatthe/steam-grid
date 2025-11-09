@@ -2377,17 +2377,22 @@
   {
     "appid": 21130,
     "name": "LEGO Harry Potter: Years 1-4",
-    "sort_as": "LEGO Harry Potter: Years 1-4"
+    "sort_as": "LEGO Harry Potter 1"
   },
   {
     "appid": 204120,
     "name": "LEGO Harry Potter: Years 5-7",
-    "sort_as": "LEGO Harry Potter: Years 5-7"
+    "sort_as": "LEGO Harry Potter 2"
   },
   {
     "appid": 285160,
     "name": "LEGO The Hobbit",
-    "sort_as": "LEGO The Hobbit"
+    "sort_as": "LEGO Hobbit 1"
+  },
+  {
+    "appid": 214510,
+    "name": "LEGO The Lord of the Rings",
+    "sort_as": "LEGO Hobbit 2"
   },
   {
     "appid": 32330,
@@ -2398,11 +2403,6 @@
     "appid": 32450,
     "name": "LEGO Indiana Jones 2: The Adventure Continues",
     "sort_as": "LEGO Indiana Jones 2"
-  },
-  {
-    "appid": 214510,
-    "name": "LEGO The Lord of the Rings",
-    "sort_as": "LEGO The Lord of the Rings"
   },
   {
     "appid": 249130,
