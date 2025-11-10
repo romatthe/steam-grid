@@ -2750,9 +2750,19 @@
     "sort_as": "Myst 1"
   },
   {
+    "appid": 1255560,
+    "name": "Myst (2021)",
+    "sort_as": "Myst 1 RE"
+  },
+  {
     "appid": 63610,
-    "name": "Riven",
+    "name": "Riven: The Sequel to Myst",
     "sort_as": "Myst 2"
+  },
+  {
+    "appid": 1712350,
+    "name": "Riven (2024)",
+    "sort_as": "Myst 2 RE"
   },
   {
     "appid": 925930,
@@ -2782,7 +2792,7 @@
   {
     "appid": 440650,
     "name": "Niche: A Genetics Survival Game",
-    "sort_as": "Niche: A Genetics Survival Game"
+    "sort_as": "Niche"
   },
   {
     "appid": 1113560,
