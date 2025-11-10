@@ -2625,6 +2625,26 @@
     "sort_as": "Metal Gear Solid X 2"
   },
   {
+    "appid": 366250,
+    "name": "Metal Slug",
+    "sort_as": "Metal Slug 1"
+  },
+  {
+    "appid": 366260,
+    "name": "Metal Slug 2",
+    "sort_as": "Metal Slug 2"
+  },
+  {
+    "appid": 250180,
+    "name": "Metal Slug 3",
+    "sort_as": "Metal Slug 3"
+  },
+  {
+    "appid": 312610,
+    "name": "Metal Slug X",
+    "sort_as": "Metal Slug X"
+  },
+  {
     "appid": 43110,
     "name": "Metro 2033",
     "sort_as": "Metro 1"
