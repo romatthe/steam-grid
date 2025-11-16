@@ -2140,6 +2140,16 @@
     "sort_as": "The Journey Down 3"
   },
   {
+    "appid": 973810,
+    "name": "Journey to the Savage Planet",
+    "sort_as": "Journey to the Savage Planet 1"
+  },
+  {
+    "appid": 2787320,
+    "name": "Revenge of the Savage Planet",
+    "sort_as": "Journey to the Savage Planet 2"
+  },
+  {
     "appid": 2058180,
     "name": "Judgment",
     "sort_as": "Judgment"
