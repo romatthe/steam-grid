@@ -1640,6 +1640,11 @@
     "sort_as": "Final Fantasy 07 RE 1"
   },
   {
+    "appid": 2909400,
+    "name": "Final Fantasy VII Rebirth",
+    "sort_as": "Final Fantasy 07 RE 2"
+  },
+  {
     "appid": 39150,
     "name": "Final Fantasy VIII",
     "sort_as": "Final Fantasy 08"
