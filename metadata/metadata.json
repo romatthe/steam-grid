@@ -2017,7 +2017,12 @@
   {
     "appid": 1151640,
     "name": "Horizon Zero Dawn",
-    "sort_as": "Horizon Zero Dawn"
+    "sort_as": "Horizon Zero Dawn 1"
+  },
+  {
+    "appid": 2561580,
+    "name": "Horizon Zero Dawn Remastered",
+    "sort_as": "Horizon Zero Dawn 1 RE"
   },
   {
     "appid": 1124300,
