@@ -2920,6 +2920,16 @@
     "sort_as": "One Piece Odyssey"
   },
   {
+    "appid": 761600,
+    "name": "Onimusha: Warlords",
+    "sort_as": "Onimusha 1"
+  },
+  {
+    "appid": 3046600,
+    "name": "Onimusha 2: Samurai's Destiny",
+    "sort_as": "Onimusha 2"
+  },
+  {
     "appid": 457680,
     "name": "Opus: The Day We Found Earth",
     "sort_as": "Opus 1"
