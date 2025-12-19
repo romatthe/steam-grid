@@ -4535,6 +4535,21 @@
     "sort_as": "Yakuza 7"
   },
   {
+    "appid": 360830,
+    "name": "Yooka-Laylee",
+    "sort_as": "Yooka-Laylee 1"
+  },
+  {
+    "appid": 2448020,
+    "name": "Yooka-Replaylee",
+    "sort_as": "Yooka-Laylee 1 RE"
+  },
+  {
+    "appid": 846870,
+    "name": "Yooka-Laylee and the Impossible Lair",
+    "sort_as": "Yooka-Laylee 2"
+  },
+  {
     "appid": 207350,
     "name": "Ys Origin",
     "sort_as": "Ys 00"
