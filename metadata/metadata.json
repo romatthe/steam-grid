@@ -105,9 +105,14 @@
     "sort_as": "American Conquest: Fight Back"
   },
   {
-    "appid": 2429190,
+    "appid": 302190,
     "name": "Amerzone: The Explorer's Legacy",
-    "sort_as": "Amerzone: The Explorer's Legacy"
+    "sort_as": "Amerzone"
+  },
+  {
+    "appid": 2429190,
+    "name": "Amerzone: The Explorer's Legacy (2025)",
+    "sort_as": "Amerzone RE"
   },
   {
     "appid": 57300,
