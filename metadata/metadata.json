@@ -3950,6 +3950,21 @@
     "sort_as": "Stronghold X 1"
   },
   {
+    "appid": 242640,
+    "name": "Styx: Master of Shadows",
+    "sort_as": "Styx 1"
+  },
+  {
+    "appid": 355790,
+    "name": "Styx: Shards of Darkness",
+    "sort_as": "Styx 2"
+  },
+  {
+    "appid": 3290690,
+    "name": "Styx: Blades of Greed",
+    "sort_as": "Styx 3"
+  },
+  {
     "appid": 612300,
     "name": "Sudden Strike",
     "sort_as": "Sudden Strike 1"
