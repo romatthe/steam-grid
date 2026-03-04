@@ -1661,8 +1661,13 @@
   },
   {
     "appid": 39140,
-    "name": "Final Fantasy VII",
-    "sort_as": "Final Fantasy 07"
+    "name": "Final Fantasy VII (2013)",
+    "sort_as": "Final Fantasy 07 1"
+  },
+  {
+    "appid": 3837340,
+    "name": "Final Fantasy VII (2026)",
+    "sort_as": "Final Fantasy 07 2"
   },
   {
     "appid": 1462040,
