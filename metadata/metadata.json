@@ -1740,6 +1740,11 @@
     "sort_as": "Final Fantasy X 1"
   },
   {
+    "appid": 4280920,
+    "name": "Final Liberation: Warhammer Epic 40,000",
+    "sort_as": "Final Liberation: Warhammer Epic 40,000"
+  },
+  {
     "appid": 1316230,
     "name": "Force of Nature 2: Ghost Keeper",
     "sort_as": "Force of Nature 2"
@@ -3710,6 +3715,16 @@
     "sort_as": "Sleeping Dogs"
   },
   {
+    "appid": 242570,
+    "name": "Space Hulk",
+    "sort_as": "Space Hulk"
+  },
+  {
+    "appid": 317620,
+    "name": "Space Hulk: Ascension",
+    "sort_as": "Space Hulk: Ascension"
+  },
+  {
     "appid": 11480,
     "name": "Soldiers: Heroes of World War II",
     "sort_as": "Soldiers: Heroes of World War II"
@@ -4425,6 +4440,16 @@
     "sort_as": "Wargame: European Escalation 3"
   },
   {
+    "appid": 4280870,
+    "name": "Warhammer: Shadow of the Horned Rat",
+    "sort_as": "Warhammer: Shadow of the Horned Rat 1"
+  },
+  {
+    "appid": 4280860,
+    "name": "Warhammer: Dark Omen",
+    "sort_as": "Warhammer: Shadow of the Horned Rat 2"
+  },
+  {
     "appid": 1022310,
     "name": "Warhammer Underworlds: Online",
     "sort_as": "Warhammer Underworlds: Online"
@@ -4433,6 +4458,16 @@
     "appid": 552500,
     "name": "Warhammer: Vermintide 2",
     "sort_as": "Warhammer: End Times - Vermintide 2"
+  },
+  {
+    "appid": 312370,
+    "name": "Warhammer 40,000: Armageddon",
+    "sort_as": "Warhammer 40,000: Armageddon"
+  },
+  {
+    "appid": 4280890,
+    "name": "Warhammer 40,000: Chaos Gate",
+    "sort_as": "Warhammer 40,000: Chaos Gate"
   },
   {
     "appid": 4570,
@@ -4478,6 +4513,16 @@
     "appid": 394450,
     "name": "Warhammer 40,000: Deathwatch",
     "sort_as": "Warhammer 40,000: Deathwatch"
+  },
+  {
+    "appid": 4280900,
+    "name": "Warhammer 40,000: Rites of War",
+    "sort_as": "Warhammer 40,000: Rites of War"
+  },
+  {
+    "appid": 502370,
+    "name": "Warhammer 40,000: Sanctus Reach",
+    "sort_as": "Warhammer 40,000: Sanctus Reach"
   },
   {
     "appid": 55150,
