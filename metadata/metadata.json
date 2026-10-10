@@ -465,6 +465,16 @@
     "sort_as": "Boot Hill Heroes 2"
   },
   {
+    "appid": 26800,
+    "name": "Braid",
+    "sort_as": "Braid"
+  },
+  {
+    "appid": 499180,
+    "name": "Braid: Anniversary Edition",
+    "sort_as": "Braid RE"
+  },
+  {
     "appid": 310890,
     "name": "Breach & Clear: Deadline Rebirth",
     "sort_as": "Breach & Clear: Deadline Rebirth"
