@@ -1845,6 +1845,11 @@
     "sort_as": "Gothic 2"
   },
   {
+    "appid": 39500,
+    "name": "Gothic 3",
+    "sort_as": "Gothic 3"
+  },
+  {
     "appid": 65600,
     "name": "Gothic 3: Forsaken Gods",
     "sort_as": "Gothic 3X"
