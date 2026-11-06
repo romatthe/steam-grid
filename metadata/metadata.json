@@ -4425,6 +4425,16 @@
     "sort_as": "Ultima 09"
   },
   {
+    "appid": 3067580,
+    "name": "Ultima Underworld: The Stygian Abyss",
+    "sort_as": "Ultima X Underworld 1"
+  },
+  {
+    "appid": 3067590,
+    "name": "Ultima Underworld II: Labyrinth of Worlds",
+    "sort_as": "Ultima X Underworld 2"
+  },
+  {
     "appid": 502520,
     "name": "Ultimate General: Civil War",
     "sort_as": "Ultimate General 2"
