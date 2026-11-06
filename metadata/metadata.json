@@ -4380,6 +4380,51 @@
     "sort_as": "Ultimate General 1"
   },
   {
+    "appid": 3067480,
+    "name": "Ultima I: The First Age of Darkness",
+    "sort_as": "Ultima 01"
+  },
+  {
+    "appid": 3067490,
+    "name": "Ultima II: The Revenge of the Enchantress",
+    "sort_as": "Ultima 02"
+  },
+  {
+    "appid": 3067500,
+    "name": "Ultima III: Exodus",
+    "sort_as": "Ultima 03"
+  },
+  {
+    "appid": 3067510,
+    "name": "Ultima IV: Quest of the Avatar",
+    "sort_as": "Ultima 04"
+  },
+  {
+    "appid": 3067520,
+    "name": "Ultima V: Warriors of Destiny",
+    "sort_as": "Ultima 05"
+  },
+  {
+    "appid": 3067530,
+    "name": "Ultima VI: The False Prophet",
+    "sort_as": "Ultima 06"
+  },
+  {
+    "appid": 3067540,
+    "name": "Ultima VII",
+    "sort_as": "Ultima 07"
+  },
+  {
+    "appid": 3067550,
+    "name": "Ultima VIII: Pagan",
+    "sort_as": "Ultima 08"
+  },
+  {
+    "appid": 3067560,
+    "name": "Ultima IX: Ascension",
+    "sort_as": "Ultima 09"
+  },
+  {
     "appid": 502520,
     "name": "Ultimate General: Civil War",
     "sort_as": "Ultimate General 2"
