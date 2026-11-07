@@ -4700,6 +4700,26 @@
     "sort_as": "Wild Hearts"
   },
   {
+    "appid": 1996640,
+    "name": "Wing Commander",
+    "sort_as": "Wing Commander 1"
+  },
+  {
+    "appid": 2008730,
+    "name": "Wing Commander II: Vengeance of the Kilrathi",
+    "sort_as": "Wing Commander 2"
+  },
+  {
+    "appid": 2008740,
+    "name": "Wing Commander III: Heart of the Tiger",
+    "sort_as": "Wing Commander 3"
+  },
+  {
+    "appid": 2008750,
+    "name": "Wing Commander IV: The Price of Freedom",
+    "sort_as": "Wing Commander 4"
+  },
+  {
     "appid": 2518960,
     "name": "Wizardry: Proving Grounds of the Mad Overlord",
     "sort_as": "Wizardry 1"
