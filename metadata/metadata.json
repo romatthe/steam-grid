@@ -846,7 +846,7 @@
   },
   {
     "appid": 1378990,
-    "name": "Crash Bandicoot 4: It’s About Time",
+    "name": "Crash Bandicoot 4: It's About Time",
     "sort_as": "Crash Bandicoot 4"
   },
   {
@@ -873,6 +873,16 @@
     "appid": 204940,
     "name": "Crusader Kings",
     "sort_as": "Crusader Kings"
+  },
+  {
+    "appid": 3066890,
+    "name": "Crusader: No Remorse",
+    "sort_as": "Crusader: No Remorse 1"
+  },
+  {
+    "appid": 3066900,
+    "name": "Crusader: No Regret",
+    "sort_as": "Crusader: No Remorse 2"
   },
   {
     "appid": 1715130,
