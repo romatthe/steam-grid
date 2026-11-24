@@ -3220,6 +3220,11 @@
     "sort_as": "Queen's Wish 2"
   },
   {
+    "appid": 512790,
+    "name": "Quern: Undying Thoughts",
+    "sort_as": "Quern"
+  },
+  {
     "appid": 1754460,
     "name": "Quester",
     "sort_as": "Quester 1"
