@@ -4725,6 +4725,31 @@
     "sort_as": "Wing Commander 4"
   },
   {
+    "appid": 3067120,
+    "name": "Wing Commander: Prophecy",
+    "sort_as": "Wing Commander 5"
+  },
+  {
+    "appid": 2008760,
+    "name": "Wing Commander: Privateer",
+    "sort_as": "Wing Commander X 1"
+  },
+  {
+    "appid": 3067130,
+    "name": "Privateer 2: The Darkening",
+    "sort_as": "Wing Commander X 2"
+  },
+  {
+    "appid": 3067090,
+    "name": "Wing Commander: Academy",
+    "sort_as": "Wing Commander X 3"
+  },
+  {
+    "appid": 3067100,
+    "name": "Wing Commander: Armada",
+    "sort_as": "Wing Commander X 4"
+  },
+  {
     "appid": 2518960,
     "name": "Wizardry: Proving Grounds of the Mad Overlord",
     "sort_as": "Wizardry 1"
